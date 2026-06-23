@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #1f2937;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  -webkit-font-smoothing: antialiased;
+}
+
+@layer components {
+  /* Nút bấm phong cách Duolingo: bo tròn, có viền đáy tạo cảm giác 3D, nhấn xuống khi click */
+  .btn-3d {
+    @apply inline-flex items-center justify-center gap-2 rounded-2xl px-6 py-3 font-bold uppercase tracking-wide text-white transition-all;
+    @apply border-b-4 active:border-b-0 active:translate-y-1 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+  .btn-green {
+    @apply btn-3d bg-green-500 border-green-700 hover:bg-green-400;
+  }
+  .btn-brand {
+    @apply btn-3d bg-brand border-brand-dark hover:brightness-110;
+  }
+  .btn-blue {
+    @apply btn-3d bg-blue-500 border-blue-700 hover:bg-blue-400;
+  }
+  .btn-amber {
+    @apply btn-3d bg-amber-500 border-amber-700 hover:bg-amber-400;
+  }
+  .btn-gray {
+    @apply btn-3d bg-gray-200 border-gray-300 text-gray-700 hover:bg-gray-100;
+  }
+
+  /* Thẻ bo tròn có viền đáy */
+  .card-3d {
+    @apply rounded-2xl border-2 border-b-4 border-gray-200 bg-white p-4 transition-colors;
+  }
+  .card-3d-hover {
+    @apply card-3d hover:border-brand hover:bg-brand-light/40;
+  }
+}
+
+/* Lật thẻ flashcard */
+.flip-card {
+  perspective: 1000px;
+}
+.flip-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.5s;
+  transform-style: preserve-3d;
+}
+.flip-inner.flipped {
+  transform: rotateY(180deg);
+}
+.flip-face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flip-back {
+  transform: rotateY(180deg);
+}

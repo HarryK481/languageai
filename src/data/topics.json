@@ -1,0 +1,12 @@
+[
+  { "code": "chao-hoi", "name": "Chào hỏi & xưng hô" },
+  { "code": "gia-dinh", "name": "Gia đình & người" },
+  { "code": "so-dem", "name": "Số đếm & lượng từ" },
+  { "code": "thoi-gian", "name": "Thời gian" },
+  { "code": "do-vat", "name": "Đồ vật quanh ta" },
+  { "code": "an-uong", "name": "Ăn uống" },
+  { "code": "hoat-dong", "name": "Hoạt động hằng ngày" },
+  { "code": "dia-diem", "name": "Địa điểm & phương hướng" },
+  { "code": "dac-diem", "name": "Tính chất & cảm xúc" },
+  { "code": "nghi-van", "name": "Đại từ nghi vấn" }
+]

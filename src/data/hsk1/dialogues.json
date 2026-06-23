@@ -1,0 +1,67 @@
+[
+  {
+    "id": "hsk1-dlg-001",
+    "title": "Lần đầu gặp mặt",
+    "level": 1,
+    "situationVi": "Hai người mới quen chào hỏi và hỏi tên nhau.",
+    "lines": [
+      { "speaker": "A", "hanzi": "你好！", "pinyin": "nǐ hǎo!", "meaningVi": "Xin chào!" },
+      { "speaker": "B", "hanzi": "你好！你叫什么名字？", "pinyin": "nǐ hǎo! nǐ jiào shénme míngzi?", "meaningVi": "Xin chào! Bạn tên là gì?" },
+      { "speaker": "A", "hanzi": "我叫小明。你呢？", "pinyin": "wǒ jiào Xiǎomíng. nǐ ne?", "meaningVi": "Tôi tên là Tiểu Minh. Còn bạn?" },
+      { "speaker": "B", "hanzi": "我叫小红。认识你很高兴！", "pinyin": "wǒ jiào Xiǎohóng. rènshi nǐ hěn gāoxìng!", "meaningVi": "Tôi tên là Tiểu Hồng. Rất vui được làm quen!" }
+    ],
+    "newWords": ["hsk1-001", "hsk1-014", "hsk1-015", "hsk1-102", "hsk1-100"]
+  },
+  {
+    "id": "hsk1-dlg-002",
+    "title": "Giới thiệu bản thân",
+    "level": 1,
+    "situationVi": "Hỏi về quốc tịch và nghề nghiệp.",
+    "lines": [
+      { "speaker": "A", "hanzi": "你是哪国人？", "pinyin": "nǐ shì nǎ guó rén?", "meaningVi": "Bạn là người nước nào?" },
+      { "speaker": "B", "hanzi": "我是越南人。你呢？", "pinyin": "wǒ shì Yuènán rén. nǐ ne?", "meaningVi": "Tôi là người Việt Nam. Còn bạn?" },
+      { "speaker": "A", "hanzi": "我是中国人。你做什么工作？", "pinyin": "wǒ shì Zhōngguó rén. nǐ zuò shénme gōngzuò?", "meaningVi": "Tôi là người Trung Quốc. Bạn làm nghề gì?" },
+      { "speaker": "B", "hanzi": "我是学生。", "pinyin": "wǒ shì xuésheng.", "meaningVi": "Tôi là học sinh." }
+    ],
+    "newWords": ["hsk1-013", "hsk1-104", "hsk1-088", "hsk1-070", "hsk1-022"]
+  },
+  {
+    "id": "hsk1-dlg-003",
+    "title": "Hỏi giờ",
+    "level": 1,
+    "situationVi": "Hỏi giờ và sắp xếp thời gian.",
+    "lines": [
+      { "speaker": "A", "hanzi": "现在几点？", "pinyin": "xiànzài jǐ diǎn?", "meaningVi": "Bây giờ mấy giờ?" },
+      { "speaker": "B", "hanzi": "现在八点。", "pinyin": "xiànzài bā diǎn.", "meaningVi": "Bây giờ 8 giờ." },
+      { "speaker": "A", "hanzi": "我们几点去学校？", "pinyin": "wǒmen jǐ diǎn qù xuéxiào?", "meaningVi": "Mấy giờ chúng ta đi học?" },
+      { "speaker": "B", "hanzi": "八点半。", "pinyin": "bā diǎn bàn.", "meaningVi": "8 giờ rưỡi." }
+    ],
+    "newWords": ["hsk1-047", "hsk1-105", "hsk1-045", "hsk1-075", "hsk1-085"]
+  },
+  {
+    "id": "hsk1-dlg-004",
+    "title": "Đi mua sắm",
+    "level": 1,
+    "situationVi": "Hỏi giá ở cửa hàng.",
+    "lines": [
+      { "speaker": "A", "hanzi": "这个苹果多少钱？", "pinyin": "zhège píngguǒ duōshao qián?", "meaningVi": "Quả táo này bao nhiêu tiền?" },
+      { "speaker": "B", "hanzi": "五块钱一个。", "pinyin": "wǔ kuài qián yí ge.", "meaningVi": "Năm tệ một quả." },
+      { "speaker": "A", "hanzi": "我买三个。", "pinyin": "wǒ mǎi sān ge.", "meaningVi": "Tôi mua ba quả." },
+      { "speaker": "B", "hanzi": "好的，谢谢！", "pinyin": "hǎo de, xièxie!", "meaningVi": "Được, cảm ơn!" }
+    ],
+    "newWords": ["hsk1-062", "hsk1-106", "hsk1-054", "hsk1-037", "hsk1-074"]
+  },
+  {
+    "id": "hsk1-dlg-005",
+    "title": "Sở thích",
+    "level": 1,
+    "situationVi": "Trò chuyện về điều mình thích.",
+    "lines": [
+      { "speaker": "A", "hanzi": "你喜欢做什么？", "pinyin": "nǐ xǐhuan zuò shénme?", "meaningVi": "Bạn thích làm gì?" },
+      { "speaker": "B", "hanzi": "我喜欢看书。你呢？", "pinyin": "wǒ xǐhuan kàn shū. nǐ ne?", "meaningVi": "Tôi thích đọc sách. Còn bạn?" },
+      { "speaker": "A", "hanzi": "我喜欢听音乐。", "pinyin": "wǒ xǐhuan tīng yīnyuè.", "meaningVi": "Tôi thích nghe nhạc." },
+      { "speaker": "B", "hanzi": "我也是！", "pinyin": "wǒ yě shì!", "meaningVi": "Tôi cũng vậy!" }
+    ],
+    "newWords": ["hsk1-079", "hsk1-073", "hsk1-065", "hsk1-066", "hsk1-048"]
+  }
+]

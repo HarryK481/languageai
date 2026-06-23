@@ -1,0 +1,55 @@
+[
+  {
+    "level": 1,
+    "name": "HSK 1",
+    "description": "Cấp cơ bản nhất — giao tiếp đơn giản hằng ngày, khoảng 150 từ vựng.",
+    "wordCount": 150,
+    "topics": [
+      "chao-hoi",
+      "gia-dinh",
+      "so-dem",
+      "thoi-gian",
+      "do-vat",
+      "an-uong",
+      "hoat-dong",
+      "dia-diem",
+      "dac-diem",
+      "nghi-van"
+    ]
+  },
+  {
+    "level": 2,
+    "name": "HSK 2",
+    "description": "Sơ cấp 2 — trao đổi thông tin quen thuộc, khoảng 300 từ (lũy kế).",
+    "wordCount": 300,
+    "topics": []
+  },
+  {
+    "level": 3,
+    "name": "HSK 3",
+    "description": "Trung cấp 1 — giao tiếp công việc/học tập cơ bản, khoảng 600 từ.",
+    "wordCount": 600,
+    "topics": []
+  },
+  {
+    "level": 4,
+    "name": "HSK 4",
+    "description": "Trung cấp 2 — thảo luận nhiều chủ đề, khoảng 1200 từ.",
+    "wordCount": 1200,
+    "topics": []
+  },
+  {
+    "level": 5,
+    "name": "HSK 5",
+    "description": "Cao cấp 1 — đọc báo, xem phim, thuyết trình, khoảng 2500 từ.",
+    "wordCount": 2500,
+    "topics": []
+  },
+  {
+    "level": 6,
+    "name": "HSK 6",
+    "description": "Cao cấp 2 — hiểu và diễn đạt trôi chảy, khoảng 5000 từ.",
+    "wordCount": 5000,
+    "topics": []
+  }
+]

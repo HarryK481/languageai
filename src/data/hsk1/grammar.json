@@ -1,0 +1,146 @@
+[
+  {
+    "id": "hsk1-gp-001",
+    "title": "Câu khẳng định với 是 (shì)",
+    "level": 1,
+    "structure": "A + 是 + B",
+    "explanationVi": "Dùng 是 để nối chủ ngữ với danh từ/đại từ, biểu thị danh tính (A chính là B). Không dùng 是 trước tính từ.",
+    "examples": [
+      { "hanzi": "我是学生。", "pinyin": "wǒ shì xuésheng.", "meaningVi": "Tôi là học sinh." },
+      { "hanzi": "他是中国人。", "pinyin": "tā shì Zhōngguó rén.", "meaningVi": "Anh ấy là người Trung Quốc." }
+    ],
+    "commonMistakes": ["Không dùng 是 trước tính từ: ❌ 我是高 → ✓ 我很高 (Tôi cao)."]
+  },
+  {
+    "id": "hsk1-gp-002",
+    "title": "Câu hỏi với 吗 (ma)",
+    "level": 1,
+    "structure": "Câu trần thuật + 吗 ?",
+    "explanationVi": "Thêm 吗 vào cuối câu trần thuật để biến thành câu hỏi có/không.",
+    "examples": [
+      { "hanzi": "你好吗？", "pinyin": "nǐ hǎo ma?", "meaningVi": "Bạn khỏe không?" },
+      { "hanzi": "你是老师吗？", "pinyin": "nǐ shì lǎoshī ma?", "meaningVi": "Bạn là giáo viên phải không?" }
+    ],
+    "commonMistakes": ["Không dùng 吗 chung với từ để hỏi: ❌ 你是谁吗？→ ✓ 你是谁？"]
+  },
+  {
+    "id": "hsk1-gp-003",
+    "title": "Phủ định với 不 (bù)",
+    "level": 1,
+    "structure": "不 + động từ / tính từ",
+    "explanationVi": "不 phủ định hành động ở hiện tại/tương lai hoặc ý chí. 不 đọc biến điệu thành bú khi đứng trước thanh 4.",
+    "examples": [
+      { "hanzi": "我不喝茶。", "pinyin": "wǒ bù hē chá.", "meaningVi": "Tôi không uống trà." },
+      { "hanzi": "今天不冷。", "pinyin": "jīntiān bù lěng.", "meaningVi": "Hôm nay không lạnh." }
+    ],
+    "commonMistakes": ["Không dùng 不 để phủ định 有: ❌ 我不有 → ✓ 我没有 (Tôi không có)."]
+  },
+  {
+    "id": "hsk1-gp-004",
+    "title": "Phủ định với 没 (méi) và 有 (yǒu)",
+    "level": 1,
+    "structure": "没(有) + 动词/名词",
+    "explanationVi": "没有 dùng để phủ định sự sở hữu (không có) hoặc phủ định hành động đã xảy ra (chưa).",
+    "examples": [
+      { "hanzi": "我没有钱。", "pinyin": "wǒ méiyǒu qián.", "meaningVi": "Tôi không có tiền." },
+      { "hanzi": "他没来。", "pinyin": "tā méi lái.", "meaningVi": "Anh ấy chưa đến." }
+    ],
+    "commonMistakes": ["有 phủ định bằng 没, không bằng 不."]
+  },
+  {
+    "id": "hsk1-gp-005",
+    "title": "Câu hỏi với từ để hỏi",
+    "level": 1,
+    "structure": "… 什么 / 谁 / 哪儿 / 几 / 多少 …",
+    "explanationVi": "Đặt từ để hỏi vào đúng vị trí của thành phần cần hỏi; trật tự câu giữ nguyên như câu trần thuật.",
+    "examples": [
+      { "hanzi": "你叫什么名字？", "pinyin": "nǐ jiào shénme míngzi?", "meaningVi": "Bạn tên là gì?" },
+      { "hanzi": "你去哪儿？", "pinyin": "nǐ qù nǎr?", "meaningVi": "Bạn đi đâu?" }
+    ],
+    "commonMistakes": ["Không đảo trật tự câu như tiếng Anh: vị trí từ hỏi = vị trí câu trả lời."]
+  },
+  {
+    "id": "hsk1-gp-006",
+    "title": "很 + tính từ",
+    "level": 1,
+    "structure": "Chủ ngữ + 很 + tính từ",
+    "explanationVi": "Trong tiếng Trung, tính từ làm vị ngữ thường cần phó từ đứng trước (mặc định là 很). 很 ở đây thường không mang nghĩa 'rất' đậm.",
+    "examples": [
+      { "hanzi": "她很漂亮。", "pinyin": "tā hěn piàoliang.", "meaningVi": "Cô ấy (rất) đẹp." },
+      { "hanzi": "今天很热。", "pinyin": "jīntiān hěn rè.", "meaningVi": "Hôm nay (rất) nóng." }
+    ],
+    "commonMistakes": ["Tránh nói trống: ❌ 她漂亮 (nghe như so sánh dở dang) → ✓ 她很漂亮."]
+  },
+  {
+    "id": "hsk1-gp-007",
+    "title": "的 (de) chỉ sở hữu / định ngữ",
+    "level": 1,
+    "structure": "Người/vật + 的 + danh từ",
+    "explanationVi": "的 nối định ngữ với danh từ, thường biểu thị sở hữu. Với quan hệ thân thiết (gia đình) có thể lược bỏ 的.",
+    "examples": [
+      { "hanzi": "这是我的书。", "pinyin": "zhè shì wǒ de shū.", "meaningVi": "Đây là sách của tôi." },
+      { "hanzi": "我妈妈", "pinyin": "wǒ māma", "meaningVi": "mẹ tôi (có thể bỏ 的)" }
+    ],
+    "commonMistakes": ["Không lạm dụng 的 với quan hệ gia đình gần: 我的妈妈 → thường nói 我妈妈."]
+  },
+  {
+    "id": "hsk1-gp-008",
+    "title": "Số + lượng từ + danh từ",
+    "level": 1,
+    "structure": "Số từ + 量词 + 名词",
+    "explanationVi": "Giữa số đếm và danh từ bắt buộc có lượng từ. Lượng từ chung là 个.",
+    "examples": [
+      { "hanzi": "三个人", "pinyin": "sān ge rén", "meaningVi": "ba người" },
+      { "hanzi": "两本书", "pinyin": "liǎng běn shū", "meaningVi": "hai quyển sách" }
+    ],
+    "commonMistakes": ["Không nói số + danh từ trực tiếp: ❌ 三人 → ✓ 三个人.", "Trước lượng từ, '2' dùng 两 chứ không dùng 二: ✓ 两个."]
+  },
+  {
+    "id": "hsk1-gp-009",
+    "title": "在 (zài) chỉ vị trí",
+    "level": 1,
+    "structure": "Chủ ngữ + 在 + nơi chốn",
+    "explanationVi": "在 làm động từ, biểu thị ai/cái gì ở đâu.",
+    "examples": [
+      { "hanzi": "我在家。", "pinyin": "wǒ zài jiā.", "meaningVi": "Tôi ở nhà." },
+      { "hanzi": "书在桌子上。", "pinyin": "shū zài zhuōzi shàng.", "meaningVi": "Sách ở trên bàn." }
+    ],
+    "commonMistakes": ["Địa điểm đặt sau 在, không đặt trước."]
+  },
+  {
+    "id": "hsk1-gp-010",
+    "title": "Động từ năng nguyện 想 / 会 / 能",
+    "level": 1,
+    "structure": "Chủ ngữ + 想/会/能 + động từ",
+    "explanationVi": "想 = muốn (ý muốn); 会 = biết do học được (kỹ năng); 能 = có thể (điều kiện/khả năng).",
+    "examples": [
+      { "hanzi": "我想喝水。", "pinyin": "wǒ xiǎng hē shuǐ.", "meaningVi": "Tôi muốn uống nước." },
+      { "hanzi": "我会说汉语。", "pinyin": "wǒ huì shuō Hànyǔ.", "meaningVi": "Tôi biết nói tiếng Trung." }
+    ],
+    "commonMistakes": ["会 dùng cho kỹ năng học được; 能 dùng cho khả năng/điều kiện cụ thể."]
+  },
+  {
+    "id": "hsk1-gp-011",
+    "title": "Trợ từ ngữ khí 了 (le) — cơ bản",
+    "level": 1,
+    "structure": "động từ (+ tân ngữ) + 了",
+    "explanationVi": "了 biểu thị sự việc đã hoàn thành hoặc xuất hiện tình huống mới.",
+    "examples": [
+      { "hanzi": "我吃饭了。", "pinyin": "wǒ chī fàn le.", "meaningVi": "Tôi ăn cơm rồi." },
+      { "hanzi": "他来了。", "pinyin": "tā lái le.", "meaningVi": "Anh ấy đến rồi." }
+    ],
+    "commonMistakes": ["Câu phủ định 没 thì bỏ 了: ❌ 我没吃饭了 → ✓ 我没吃饭."]
+  },
+  {
+    "id": "hsk1-gp-012",
+    "title": "Cách nói ngày tháng & giờ",
+    "level": 1,
+    "structure": "… 年 … 月 … 日，… 点 … 分",
+    "explanationVi": "Tiếng Trung nói thời gian theo thứ tự lớn → nhỏ: năm, tháng, ngày, thứ, giờ, phút.",
+    "examples": [
+      { "hanzi": "今天三月八日。", "pinyin": "jīntiān sān yuè bā rì.", "meaningVi": "Hôm nay ngày 8 tháng 3." },
+      { "hanzi": "现在八点。", "pinyin": "xiànzài bā diǎn.", "meaningVi": "Bây giờ 8 giờ." }
+    ],
+    "commonMistakes": ["Thứ tự ngược tiếng Việt: nói năm trước, ngày sau."]
+  }
+]
