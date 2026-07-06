@@ -5,6 +5,7 @@
   "description": "Website dạy & học tiếng Trung theo chuẩn HSK",
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/generate-audio.mjs || echo \"gen-audio bỏ qua — dùng fallback Web Speech\"",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
