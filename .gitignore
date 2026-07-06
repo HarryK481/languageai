@@ -7,3 +7,7 @@ build/
 .env*.local
 next-env.d.ts
 .claude/settings.local.json
+
+# File phát âm mp3 sinh tự động (giọng Edge TTS) — không commit lên repo public.
+# Tạo lại bằng: npm run gen-audio
+/public/audio/

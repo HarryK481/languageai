@@ -1,6 +1,6 @@
 "use client";
 
-import { speakChinese } from "@/lib/tts";
+import { speak } from "@/lib/tts";
 
 export default function SpeakButton({
   text,
@@ -14,7 +14,7 @@ export default function SpeakButton({
   return (
     <button
       type="button"
-      onClick={() => speakChinese(text)}
+      onClick={() => speak(text)}
       aria-label={`Phát âm ${text}`}
       title="Phát âm"
       className={`inline-flex items-center justify-center rounded-full text-brand transition hover:bg-brand-light active:scale-90 ${className}`}
