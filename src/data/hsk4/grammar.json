@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "id": "hsk4-gp-001",
+    "title": "只要……就…… (chỉ cần… thì…)",
+    "level": 4,
+    "structure": "只要 + điều kiện, 就 + kết quả",
+    "explanationVi": "Nêu một điều kiện đủ: chỉ cần đạt điều kiện thì sẽ có kết quả. Điều kiện này không nhất thiết là duy nhất.",
+    "examples": [
+      { "hanzi": "只要努力，就会成功。", "pinyin": "zhǐyào nǔlì, jiù huì chénggōng.", "meaningVi": "Chỉ cần cố gắng thì sẽ thành công." },
+      { "hanzi": "只要你来，我就很高兴。", "pinyin": "zhǐyào nǐ lái, wǒ jiù hěn gāoxìng.", "meaningVi": "Chỉ cần bạn đến là tôi vui rồi." }
+    ],
+    "commonMistakes": ["Đừng nhầm với 只有……才……: 只要 là điều kiện đủ, 只有 là điều kiện cần (duy nhất)."]
+  },
+  {
+    "id": "hsk4-gp-002",
+    "title": "只有……才…… (chỉ có… mới…)",
+    "level": 4,
+    "structure": "只有 + điều kiện duy nhất, 才 + kết quả",
+    "explanationVi": "Nêu điều kiện cần và duy nhất: chỉ khi có điều kiện này thì mới đạt kết quả, không có nó thì không thể.",
+    "examples": [
+      { "hanzi": "只有多练习，才能说得流利。", "pinyin": "zhǐyǒu duō liànxí, cái néng shuō de liúlì.", "meaningVi": "Chỉ khi luyện tập nhiều mới nói lưu loát được." },
+      { "hanzi": "只有努力学习，才会有好成绩。", "pinyin": "zhǐyǒu nǔlì xuéxí, cái huì yǒu hǎo chéngjì.", "meaningVi": "Chỉ khi chăm học mới có thành tích tốt." }
+    ],
+    "commonMistakes": ["Vế sau dùng 才 chứ không dùng 就: ❌ 只有努力就成功。"]
+  },
+  {
+    "id": "hsk4-gp-003",
+    "title": "无论/不管……都…… (bất kể… đều…)",
+    "level": 4,
+    "structure": "无论/不管 + (từ nghi vấn / A还是B), 都 + kết quả",
+    "explanationVi": "Biểu thị kết quả không thay đổi dù điều kiện thế nào. Sau 无论/不管 thường có từ nghi vấn (怎么, 多, 谁…) hoặc cấu trúc lựa chọn.",
+    "examples": [
+      { "hanzi": "无论多难，我都要做完。", "pinyin": "wúlùn duō nán, wǒ dōu yào zuò wán.", "meaningVi": "Dù khó thế nào tôi cũng phải làm xong." },
+      { "hanzi": "不管刮风还是下雨，他都去跑步。", "pinyin": "bùguǎn guā fēng háishì xiàyǔ, tā dōu qù pǎobù.", "meaningVi": "Dù gió hay mưa anh ấy đều đi chạy bộ." }
+    ],
+    "commonMistakes": ["Sau 无论/不管 phải là nội dung bất định (từ nghi vấn hoặc lựa chọn), không dùng câu khẳng định thường."]
+  },
+  {
+    "id": "hsk4-gp-004",
+    "title": "即使……也…… (dù cho… cũng…)",
+    "level": 4,
+    "structure": "即使 + giả định, 也 + kết quả",
+    "explanationVi": "Nêu một giả định nhượng bộ (chưa xảy ra hoặc cực đoan), kết quả ở vế sau vẫn không đổi.",
+    "examples": [
+      { "hanzi": "即使很累，他也不放弃。", "pinyin": "jíshǐ hěn lèi, tā yě bú fàngqì.", "meaningVi": "Dù rất mệt anh ấy cũng không từ bỏ." },
+      { "hanzi": "即使下大雨，我也要去。", "pinyin": "jíshǐ xià dàyǔ, wǒ yě yào qù.", "meaningVi": "Dù mưa to tôi cũng phải đi." }
+    ],
+    "commonMistakes": ["即使 nêu điều giả định; nếu là sự thật đã xảy ra thì dùng 虽然……但是……."]
+  },
+  {
+    "id": "hsk4-gp-005",
+    "title": "不但……而且…… (không những… mà còn…)",
+    "level": 4,
+    "structure": "不但 + A, 而且 + B (B tăng tiến so với A)",
+    "explanationVi": "Quan hệ tăng tiến: vế sau nêu mức độ sâu hơn vế trước. Nếu hai vế cùng chủ ngữ, 不但 đứng sau chủ ngữ.",
+    "examples": [
+      { "hanzi": "他不但聪明，而且很努力。", "pinyin": "tā búdàn cōngming, érqiě hěn nǔlì.", "meaningVi": "Anh ấy không những thông minh mà còn chăm chỉ." },
+      { "hanzi": "这个地方不但漂亮，而且很安静。", "pinyin": "zhège dìfang búdàn piàoliang, érqiě hěn ānjìng.", "meaningVi": "Nơi này không những đẹp mà còn yên tĩnh." }
+    ],
+    "commonMistakes": ["Cùng chủ ngữ thì 不但 đặt sau chủ ngữ: ✓ 他不但…… ; khác chủ ngữ thì 不但 đặt trước chủ ngữ."]
+  },
+  {
+    "id": "hsk4-gp-006",
+    "title": "既……又…… (vừa… vừa…)",
+    "level": 4,
+    "structure": "既 + tính chất/hành động A + 又 + B",
+    "explanationVi": "Nêu hai đặc điểm hoặc hành động cùng tồn tại song song ở một chủ thể, hai vế thường tương đương về mức độ.",
+    "examples": [
+      { "hanzi": "这个菜既好吃又便宜。", "pinyin": "zhège cài jì hǎochī yòu piányi.", "meaningVi": "Món này vừa ngon vừa rẻ." },
+      { "hanzi": "他既会唱歌，又会跳舞。", "pinyin": "tā jì huì chànggē, yòu huì tiàowǔ.", "meaningVi": "Anh ấy vừa biết hát, vừa biết nhảy." }
+    ],
+    "commonMistakes": ["既……又…… nối hai thành phần cùng loại (đều là tính từ, hoặc đều là động từ)."]
+  },
+  {
+    "id": "hsk4-gp-007",
+    "title": "不是……而是…… (không phải… mà là…)",
+    "level": 4,
+    "structure": "不是 + A, 而是 + B",
+    "explanationVi": "Phủ định điều A và khẳng định điều B mới đúng. Dùng để đính chính, làm rõ.",
+    "examples": [
+      { "hanzi": "这不是我的，而是他的。", "pinyin": "zhè bú shì wǒ de, érshì tā de.", "meaningVi": "Cái này không phải của tôi, mà là của anh ấy." },
+      { "hanzi": "他不是不想去，而是没有时间。", "pinyin": "tā bú shì bù xiǎng qù, érshì méiyǒu shíjiān.", "meaningVi": "Anh ấy không phải không muốn đi, mà là không có thời gian." }
+    ],
+    "commonMistakes": ["Phân biệt với 不是……就是…… (nếu không phải A thì là B — nêu hai khả năng)."]
+  },
+  {
+    "id": "hsk4-gp-008",
+    "title": "由于……因此/所以…… (do… nên…)",
+    "level": 4,
+    "structure": "由于 + nguyên nhân, 因此/所以 + kết quả",
+    "explanationVi": "Biểu thị quan hệ nguyên nhân – kết quả, mang sắc thái trang trọng hơn 因为……所以……. 由于 thường đặt đầu câu.",
+    "examples": [
+      { "hanzi": "由于下雨，比赛推迟了。", "pinyin": "yóuyú xiàyǔ, bǐsài tuīchí le.", "meaningVi": "Do trời mưa, trận đấu bị hoãn." },
+      { "hanzi": "由于工作太忙，他没有时间休息。", "pinyin": "yóuyú gōngzuò tài máng, tā méiyǒu shíjiān xiūxi.", "meaningVi": "Do công việc quá bận, anh ấy không có thời gian nghỉ." }
+    ],
+    "commonMistakes": ["由于 thiên về văn viết; vế kết quả có thể dùng 因此 (không dùng 因为 ở vế sau)."]
+  },
+  {
+    "id": "hsk4-gp-009",
+    "title": "越……越…… và 越来越…… (càng… càng…)",
+    "level": 4,
+    "structure": "越 + A + 越 + B ; 越来越 + tính từ/động từ",
+    "explanationVi": "越A越B: mức độ B thay đổi theo A. 越来越: mức độ tăng dần theo thời gian.",
+    "examples": [
+      { "hanzi": "雨越下越大。", "pinyin": "yǔ yuè xià yuè dà.", "meaningVi": "Mưa càng lúc càng to." },
+      { "hanzi": "他的汉语越来越好了。", "pinyin": "tā de Hànyǔ yuè lái yuè hǎo le.", "meaningVi": "Tiếng Trung của anh ấy ngày càng tốt." }
+    ],
+    "commonMistakes": ["越来越 + tính từ không đi kèm 很/非常: ❌ 越来越很好 → ✓ 越来越好。"]
+  },
+  {
+    "id": "hsk4-gp-010",
+    "title": "Câu kiêm ngữ với 使/让/叫 (khiến/để cho…)",
+    "level": 4,
+    "structure": "A + 使/让/叫 + B + động từ/tính từ",
+    "explanationVi": "Tân ngữ của động từ thứ nhất (使/让/叫) đồng thời là chủ ngữ của động từ thứ hai, biểu thị A khiến B làm gì / trở nên thế nào. 使 thiên về văn viết.",
+    "examples": [
+      { "hanzi": "这个消息使大家很高兴。", "pinyin": "zhège xiāoxi shǐ dàjiā hěn gāoxìng.", "meaningVi": "Tin này khiến mọi người rất vui." },
+      { "hanzi": "妈妈让我早点回家。", "pinyin": "māma ràng wǒ zǎodiǎn huí jiā.", "meaningVi": "Mẹ bảo tôi về nhà sớm một chút." }
+    ],
+    "commonMistakes": ["使 thường đi với cảm xúc/trạng thái (使人高兴), ít dùng cho mệnh lệnh trực tiếp; mệnh lệnh dùng 让/叫."]
+  },
+  {
+    "id": "hsk4-gp-011",
+    "title": "Bổ ngữ xu hướng nghĩa mở rộng: 起来 / 下去",
+    "level": 4,
+    "structure": "Động từ/tính từ + 起来 (bắt đầu) ; động từ + 下去 (tiếp tục)",
+    "explanationVi": "起来 ngoài nghĩa hướng lên còn biểu thị bắt đầu và tiếp diễn một trạng thái; 下去 biểu thị tiếp tục hành động đang có.",
+    "examples": [
+      { "hanzi": "听到这个笑话，大家都笑起来了。", "pinyin": "tīngdào zhège xiàohua, dàjiā dōu xiào qǐlái le.", "meaningVi": "Nghe chuyện cười này, mọi người đều bật cười." },
+      { "hanzi": "请你继续说下去。", "pinyin": "qǐng nǐ jìxù shuō xiàqù.", "meaningVi": "Xin bạn nói tiếp đi." }
+    ],
+    "commonMistakes": ["起来 chỉ sự bắt đầu, 下去 chỉ sự tiếp tục — không dùng lẫn."]
+  },
+  {
+    "id": "hsk4-gp-012",
+    "title": "Trùng điệp động từ và tính từ (AABB / A一A)",
+    "level": 4,
+    "structure": "Động từ đơn: 看看/试试 ; tính từ hai âm: 高高兴兴 ; động từ: 说一说",
+    "explanationVi": "Trùng điệp động từ làm dịu ngữ khí, ý 'làm một chút, thử'. Trùng điệp tính từ (AABB) làm tăng và sinh động hình ảnh miêu tả.",
+    "examples": [
+      { "hanzi": "你尝尝这个菜。", "pinyin": "nǐ chángchang zhège cài.", "meaningVi": "Bạn nếm thử món này đi." },
+      { "hanzi": "他高高兴兴地回家了。", "pinyin": "tā gāogāoxìngxìng de huí jiā le.", "meaningVi": "Anh ấy vui vẻ đi về nhà." }
+    ],
+    "commonMistakes": ["Tính từ AABB thường theo sau bởi 地 khi bổ nghĩa cho động từ: 高高兴兴地……"]
+  },
+  {
+    "id": "hsk4-gp-013",
+    "title": "把……当作/看成…… (coi… là…)",
+    "level": 4,
+    "structure": "把 + A + 当作/看成 + B",
+    "explanationVi": "把……当作/看成…… biểu thị coi A là B, xem A như B. Là một dạng mở rộng của câu chữ 把.",
+    "examples": [
+      { "hanzi": "他把这里当作自己的家。", "pinyin": "tā bǎ zhèlǐ dàngzuò zìjǐ de jiā.", "meaningVi": "Anh ấy coi nơi này như nhà mình." },
+      { "hanzi": "大家把他看成好朋友。", "pinyin": "dàjiā bǎ tā kànchéng hǎo péngyou.", "meaningVi": "Mọi người xem anh ấy là bạn tốt." }
+    ],
+    "commonMistakes": ["Cấu trúc cố định 当作/看成 đi liền, không tách rời."]
+  },
+  {
+    "id": "hsk4-gp-014",
+    "title": "疑问代词表任指: 谁都/什么都 (ai cũng / gì cũng)",
+    "level": 4,
+    "structure": "Từ nghi vấn (谁/什么/哪儿/怎么) + 都/也 + …",
+    "explanationVi": "Từ nghi vấn không dùng để hỏi mà chỉ 'bất kỳ', kết hợp với 都/也 nghĩa là 'tất cả / không trừ ai'.",
+    "examples": [
+      { "hanzi": "这件事谁都知道。", "pinyin": "zhè jiàn shì shéi dōu zhīdào.", "meaningVi": "Việc này ai cũng biết." },
+      { "hanzi": "他饿了，什么都想吃。", "pinyin": "tā è le, shénme dōu xiǎng chī.", "meaningVi": "Anh ấy đói, cái gì cũng muốn ăn." }
+    ],
+    "commonMistakes": ["Phải có 都 hoặc 也 đi kèm: 谁都知道 (ai cũng biết) khác với 谁知道 (ai biết?)."]
+  }
+]

@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "id": "hsk4-dlg-001",
+    "title": "Phỏng vấn xin việc",
+    "level": 4,
+    "situationVi": "Ứng viên trả lời phỏng vấn về kinh nghiệm và năng lực.",
+    "lines": [
+      { "speaker": "A", "hanzi": "你为什么来应聘这个工作？", "pinyin": "nǐ wèishénme lái yìngpìn zhège gōngzuò?", "meaningVi": "Vì sao bạn ứng tuyển công việc này?" },
+      { "speaker": "B", "hanzi": "我有三年的工作经验，觉得很适合。", "pinyin": "wǒ yǒu sān nián de gōngzuò jīngyàn, juéde hěn shìhé.", "meaningVi": "Tôi có ba năm kinh nghiệm, thấy rất phù hợp." },
+      { "speaker": "A", "hanzi": "你觉得自己有什么优点？", "pinyin": "nǐ juéde zìjǐ yǒu shénme yōudiǎn?", "meaningVi": "Bạn thấy mình có ưu điểm gì?" },
+      { "speaker": "B", "hanzi": "我工作很积极，也很有责任心。", "pinyin": "wǒ gōngzuò hěn jījí, yě hěn yǒu zérèn xīn.", "meaningVi": "Tôi làm việc tích cực và có tinh thần trách nhiệm." }
+    ],
+    "newWords": ["hsk4-509", "hsk4-221", "hsk4-378", "hsk4-512", "hsk4-178", "hsk4-540"]
+  },
+  {
+    "id": "hsk4-dlg-002",
+    "title": "Làm visa đi du lịch",
+    "level": 4,
+    "situationVi": "Hỏi về thủ tục làm visa ở đại sứ quán.",
+    "lines": [
+      { "speaker": "A", "hanzi": "请问，办签证需要什么材料？", "pinyin": "qǐngwèn, bàn qiānzhèng xūyào shénme cáiliào?", "meaningVi": "Xin hỏi, làm visa cần giấy tờ gì?" },
+      { "speaker": "B", "hanzi": "请先填这个表格，再交护照。", "pinyin": "qǐng xiān tián zhège biǎogé, zài jiāo hùzhào.", "meaningVi": "Xin điền mẫu đơn này trước, rồi nộp hộ chiếu." },
+      { "speaker": "A", "hanzi": "大概多长时间能办好？", "pinyin": "dàgài duō cháng shíjiān néng bàn hǎo?", "meaningVi": "Khoảng bao lâu thì làm xong?" },
+      { "speaker": "B", "hanzi": "大约一个星期，我们会通知你。", "pinyin": "dàyuē yí ge xīngqī, wǒmen huì tōngzhī nǐ.", "meaningVi": "Khoảng một tuần, chúng tôi sẽ thông báo cho bạn." }
+    ],
+    "newWords": ["hsk4-328", "hsk4-032", "hsk4-020", "hsk4-200", "hsk4-063", "hsk4-065", "hsk4-427"]
+  },
+  {
+    "id": "hsk4-dlg-003",
+    "title": "Thuê nhà",
+    "level": 4,
+    "situationVi": "Trao đổi với chủ nhà về việc thuê phòng.",
+    "lines": [
+      { "speaker": "A", "hanzi": "我想租这间房子，价格怎么样？", "pinyin": "wǒ xiǎng zū zhè jiān fángzi, jiàgé zěnmeyàng?", "meaningVi": "Tôi muốn thuê căn phòng này, giá thế nào?" },
+      { "speaker": "B", "hanzi": "一个月两千,里面的家具都是新的。", "pinyin": "yí ge yuè liǎng qiān, lǐmiàn de jiājù dōu shì xīn de.", "meaningVi": "Mỗi tháng hai nghìn, nội thất bên trong đều mới." },
+      { "speaker": "A", "hanzi": "客厅和厨房我都很满意。", "pinyin": "kètīng hé chúfáng wǒ dōu hěn mǎnyì.", "meaningVi": "Phòng khách và bếp tôi đều rất hài lòng." },
+      { "speaker": "B", "hanzi": "那我们签合同吧。", "pinyin": "nà wǒmen qiān hétong ba.", "meaningVi": "Vậy chúng ta ký hợp đồng nhé." }
+    ],
+    "newWords": ["hsk4-579", "hsk4-191", "hsk4-189", "hsk4-243", "hsk4-049"]
+  },
+  {
+    "id": "hsk4-dlg-004",
+    "title": "Mua sắm giảm giá",
+    "level": 4,
+    "situationVi": "Khách hàng chọn quần áo đang giảm giá.",
+    "lines": [
+      { "speaker": "A", "hanzi": "这件衣服打折吗？", "pinyin": "zhè jiàn yīfu dǎzhé ma?", "meaningVi": "Chiếc áo này có giảm giá không?" },
+      { "speaker": "B", "hanzi": "打八折，这个价格很合适。", "pinyin": "dǎ bā zhé, zhège jiàgé hěn héshì.", "meaningVi": "Giảm 20%, giá này rất hợp lý." },
+      { "speaker": "A", "hanzi": "我挑一件，能便宜一点吗？", "pinyin": "wǒ tiāo yí jiàn, néng piányi yìdiǎn ma?", "meaningVi": "Tôi chọn một chiếc, rẻ hơn chút được không?" },
+      { "speaker": "B", "hanzi": "对不起，顾客都是这个价。", "pinyin": "duìbuqǐ, gùkè dōu shì zhège jià.", "meaningVi": "Xin lỗi, khách nào cũng giá này." }
+    ],
+    "newWords": ["hsk4-062", "hsk4-191", "hsk4-162", "hsk4-598", "hsk4-138"]
+  },
+  {
+    "id": "hsk4-dlg-005",
+    "title": "An ủi bạn",
+    "level": 4,
+    "situationVi": "Động viên bạn khi gặp thất bại.",
+    "lines": [
+      { "speaker": "A", "hanzi": "这次考试我失败了，很难受。", "pinyin": "zhè cì kǎoshì wǒ shībài le, hěn nánshòu.", "meaningVi": "Kỳ thi lần này tôi thất bại, rất buồn." },
+      { "speaker": "B", "hanzi": "别难过，失败是成功之母。", "pinyin": "bié nánguò, shībài shì chénggōng zhī mǔ.", "meaningVi": "Đừng buồn, thất bại là mẹ thành công." },
+      { "speaker": "A", "hanzi": "谢谢你鼓励我。", "pinyin": "xièxie nǐ gǔlì wǒ.", "meaningVi": "Cảm ơn bạn đã động viên tôi." },
+      { "speaker": "B", "hanzi": "只要坚持，你一定会成功。", "pinyin": "zhǐyào jiānchí, nǐ yídìng huì chénggōng.", "meaningVi": "Chỉ cần kiên trì, bạn nhất định sẽ thành công." }
+    ],
+    "newWords": ["hsk4-369", "hsk4-300", "hsk4-039", "hsk4-137", "hsk4-192"]
+  },
+  {
+    "id": "hsk4-dlg-006",
+    "title": "Bàn về môi trường",
+    "level": 4,
+    "situationVi": "Hai bạn thảo luận về ô nhiễm và bảo vệ môi trường.",
+    "lines": [
+      { "speaker": "A", "hanzi": "这个城市的空气污染很严重。", "pinyin": "zhège chéngshì de kōngqì wūrǎn hěn yánzhòng.", "meaningVi": "Ô nhiễm không khí thành phố này rất nghiêm trọng." },
+      { "speaker": "B", "hanzi": "是的，我们应该保护环境。", "pinyin": "shì de, wǒmen yīnggāi bǎohù huánjìng.", "meaningVi": "Đúng vậy, chúng ta nên bảo vệ môi trường." },
+      { "speaker": "A", "hanzi": "比如节约用水，少开车。", "pinyin": "bǐrú jiéyuē yòng shuǐ, shǎo kāichē.", "meaningVi": "Ví dụ như tiết kiệm nước, ít lái xe." },
+      { "speaker": "B", "hanzi": "只有大家一起努力，才能改变。", "pinyin": "zhǐyǒu dàjiā yìqǐ nǔlì, cái néng gǎibiàn.", "meaningVi": "Chỉ khi mọi người cùng cố gắng mới thay đổi được." }
+    ],
+    "newWords": ["hsk4-444", "hsk4-485", "hsk4-009", "hsk4-017", "hsk4-212", "hsk4-117"]
+  },
+  {
+    "id": "hsk4-dlg-007",
+    "title": "Ở ngân hàng",
+    "level": 4,
+    "situationVi": "Khách hàng gửi tiền và hỏi về mật khẩu.",
+    "lines": [
+      { "speaker": "A", "hanzi": "你好，我想存一些钱。", "pinyin": "nǐ hǎo, wǒ xiǎng cún yìxiē qián.", "meaningVi": "Xin chào, tôi muốn gửi một ít tiền." },
+      { "speaker": "B", "hanzi": "请填这张表，记住你的密码。", "pinyin": "qǐng tián zhè zhāng biǎo, jì zhù nǐ de mìmǎ.", "meaningVi": "Xin điền tờ này và nhớ kỹ mật khẩu của bạn." },
+      { "speaker": "A", "hanzi": "密码一定要记住，对吗？", "pinyin": "mìmǎ yídìng yào jì zhù, duì ma?", "meaningVi": "Nhất định phải nhớ mật khẩu đúng không?" },
+      { "speaker": "B", "hanzi": "对，千万别忘了。", "pinyin": "duì, qiānwàn bié wàng le.", "meaningVi": "Đúng, nhất định đừng quên nhé." }
+    ],
+    "newWords": ["hsk4-055", "hsk4-292", "hsk4-327"]
+  },
+  {
+    "id": "hsk4-dlg-008",
+    "title": "Nói về kế hoạch tương lai",
+    "level": 4,
+    "situationVi": "Hai người bạn chia sẻ dự định và ước mơ.",
+    "lines": [
+      { "speaker": "A", "hanzi": "你将来有什么理想？", "pinyin": "nǐ jiānglái yǒu shénme lǐxiǎng?", "meaningVi": "Tương lai bạn có ước mơ gì?" },
+      { "speaker": "B", "hanzi": "我想当一名律师，帮助别人。", "pinyin": "wǒ xiǎng dāng yì míng lǜshī, bāngzhù biéren.", "meaningVi": "Tôi muốn làm luật sư, giúp đỡ người khác." },
+      { "speaker": "A", "hanzi": "这个理想很好，值得努力。", "pinyin": "zhège lǐxiǎng hěn hǎo, zhídé nǔlì.", "meaningVi": "Ước mơ này rất tốt, đáng để cố gắng." },
+      { "speaker": "B", "hanzi": "无论多难，我都不会放弃。", "pinyin": "wúlùn duō nán, wǒ dōu bú huì fàngqì.", "meaningVi": "Dù khó thế nào tôi cũng không từ bỏ." }
+    ],
+    "newWords": ["hsk4-196", "hsk4-268", "hsk4-068", "hsk4-283", "hsk4-554", "hsk4-447", "hsk4-106"]
+  },
+  {
+    "id": "hsk4-dlg-009",
+    "title": "Đi khám sức khỏe",
+    "level": 4,
+    "situationVi": "Bệnh nhân miêu tả triệu chứng với bác sĩ.",
+    "lines": [
+      { "speaker": "A", "hanzi": "大夫，我一直咳嗽，肚子也难受。", "pinyin": "dàifu, wǒ yìzhí késou, dùzi yě nánshòu.", "meaningVi": "Bác sĩ, tôi ho mãi, bụng cũng khó chịu." },
+      { "speaker": "B", "hanzi": "这几天你的心情怎么样？", "pinyin": "zhè jǐ tiān nǐ de xīnqíng zěnmeyàng?", "meaningVi": "Mấy hôm nay tâm trạng của anh thế nào?" },
+      { "speaker": "A", "hanzi": "压力有点大，睡得也不好。", "pinyin": "yālì yǒudiǎn dà, shuì de yě bù hǎo.", "meaningVi": "Áp lực hơi lớn, ngủ cũng không ngon." },
+      { "speaker": "B", "hanzi": "你要放松一下，别太紧张。", "pinyin": "nǐ yào fàngsōng yíxià, bié tài jǐnzhāng.", "meaningVi": "Anh phải thư giãn một chút, đừng quá căng thẳng." }
+    ],
+    "newWords": ["hsk4-066", "hsk4-240", "hsk4-087", "hsk4-466", "hsk4-480", "hsk4-108", "hsk4-215"]
+  },
+  {
+    "id": "hsk4-dlg-010",
+    "title": "Mời dự tiệc",
+    "level": 4,
+    "situationVi": "Mời bạn đến dự buổi họp mặt cuối tuần.",
+    "lines": [
+      { "speaker": "A", "hanzi": "周末我家有个聚会，邀请你来。", "pinyin": "zhōumò wǒ jiā yǒu ge jùhuì, yāoqǐng nǐ lái.", "meaningVi": "Cuối tuần nhà tôi có tiệc, mời bạn đến." },
+      { "speaker": "B", "hanzi": "太好了！我一定准时到。", "pinyin": "tài hǎo le! wǒ yídìng zhǔnshí dào.", "meaningVi": "Tuyệt quá! Tôi nhất định đến đúng giờ." },
+      { "speaker": "A", "hanzi": "会有很多朋友，一定很热闹。", "pinyin": "huì yǒu hěn duō péngyou, yídìng hěn rènao.", "meaningVi": "Sẽ có nhiều bạn bè, chắc chắn rất náo nhiệt." },
+      { "speaker": "B", "hanzi": "那我顺便带点水果去。", "pinyin": "nà wǒ shùnbiàn dài diǎn shuǐguǒ qù.", "meaningVi": "Vậy tôi tiện thể mang chút hoa quả đến." }
+    ],
+    "newWords": ["hsk4-233", "hsk4-494", "hsk4-574", "hsk4-345", "hsk4-393"]
+  }
+]

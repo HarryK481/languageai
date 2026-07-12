@@ -29,7 +29,8 @@ npm run gen-audio    # sinh mp3 vào public/audio/ + cập nhật src/data/audio
 | HSK 1 | 150 từ + câu ví dụ |
 | HSK 2 | 150 từ + câu ví dụ |
 | HSK 3 | 300 từ + câu ví dụ |
-| Tổng | ~1196 file mp3 (~10.6 MB), 0 file rỗng |
+| HSK 4 | 600 từ + câu ví dụ + ngữ pháp + hội thoại |
+| Tổng | ~2396 file mp3 (~22.3 MB), 0 file rỗng |
 
 Manifest ánh xạ `text → file`: [`src/data/audio-manifest.json`](../../src/data/audio-manifest.json) — file này **có** trong repo.
 

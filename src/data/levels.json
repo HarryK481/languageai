@@ -68,9 +68,27 @@
   {
     "level": 4,
     "name": "HSK 4",
-    "description": "Trung cấp 2 — thảo luận nhiều chủ đề, khoảng 1200 từ.",
+    "description": "Trung cấp 2 — thảo luận nhiều chủ đề, khoảng 1200 từ (lũy kế).",
     "wordCount": 1200,
-    "topics": []
+    "topics": [
+      "cong-viec",
+      "hoc-tap",
+      "xa-hoi",
+      "cam-xuc",
+      "tinh-cach",
+      "truu-tuong",
+      "thoi-gian",
+      "giao-thong",
+      "suc-khoe",
+      "an-uong",
+      "mua-sam",
+      "gia-dinh",
+      "thien-nhien",
+      "dia-diem",
+      "do-vat",
+      "dac-diem",
+      "lien-ket"
+    ]
   },
   {
     "level": 5,
