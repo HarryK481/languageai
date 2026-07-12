@@ -15,5 +15,8 @@
   { "code": "suc-khoe", "name": "Sức khỏe & cơ thể" },
   { "code": "thoi-tiet", "name": "Thời tiết & màu sắc" },
   { "code": "mua-sam", "name": "Mua sắm & tiền" },
-  { "code": "lien-ket", "name": "Từ nối & phó từ" }
+  { "code": "lien-ket", "name": "Từ nối & phó từ" },
+  { "code": "cam-xuc", "name": "Cảm xúc & thái độ" },
+  { "code": "hoc-tap", "name": "Học tập & ngôn ngữ" },
+  { "code": "thien-nhien", "name": "Thiên nhiên & động vật" }
 ]

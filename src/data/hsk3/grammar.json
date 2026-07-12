@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "id": "hsk3-gp-001",
+    "title": "Câu chữ 把 (bǎ)",
+    "level": 3,
+    "structure": "Chủ ngữ + 把 + tân ngữ + động từ + thành phần khác",
+    "explanationVi": "Câu chữ 把 đưa tân ngữ lên trước động từ để nhấn mạnh sự xử lý/tác động lên tân ngữ đó. Sau động từ bắt buộc có thành phần khác (了, bổ ngữ, tân ngữ…), không đứng một mình.",
+    "examples": [
+      { "hanzi": "请把书放在桌子上。", "pinyin": "qǐng bǎ shū fàng zài zhuōzi shàng.", "meaningVi": "Xin đặt sách lên bàn." },
+      { "hanzi": "我把作业做完了。", "pinyin": "wǒ bǎ zuòyè zuò wán le.", "meaningVi": "Tôi đã làm xong bài tập." }
+    ],
+    "commonMistakes": ["Sau động từ không được để trống: ❌ 我把书看 → ✓ 我把书看完了。"]
+  },
+  {
+    "id": "hsk3-gp-002",
+    "title": "Câu bị động với 被 (bèi)",
+    "level": 3,
+    "structure": "Chủ ngữ + 被 (+ người) + động từ + thành phần khác",
+    "explanationVi": "被 biểu thị chủ ngữ bị/được tác động. Người gây ra hành động có thể lược bỏ. Sau động từ cũng cần thành phần khác như câu chữ 把.",
+    "examples": [
+      { "hanzi": "蛋糕被弟弟吃完了。", "pinyin": "dàngāo bèi dìdi chī wán le.", "meaningVi": "Bánh đã bị em trai ăn hết." },
+      { "hanzi": "我的自行车被人骑走了。", "pinyin": "wǒ de zìxíngchē bèi rén qí zǒu le.", "meaningVi": "Xe đạp của tôi bị người ta lấy đi mất." }
+    ],
+    "commonMistakes": ["Người gây hành động đứng sau 被, không đứng trước."]
+  },
+  {
+    "id": "hsk3-gp-003",
+    "title": "So sánh mở rộng: 比 + 更/还; 没有",
+    "level": 3,
+    "structure": "A 比 B + (更/还) + tính từ; A 没有 B + tính từ",
+    "explanationVi": "Có thể thêm 更/还 sau 比 để nhấn mạnh mức hơn; thêm 一点/得多 sau tính từ để nói mức chênh lệch. Phủ định của so sánh dùng 'A 没有 B…' (A không bằng B).",
+    "examples": [
+      { "hanzi": "今天比昨天更冷。", "pinyin": "jīntiān bǐ zuótiān gèng lěng.", "meaningVi": "Hôm nay lạnh hơn hôm qua." },
+      { "hanzi": "我没有他高。", "pinyin": "wǒ méiyǒu tā gāo.", "meaningVi": "Tôi không cao bằng anh ấy." }
+    ],
+    "commonMistakes": ["Phủ định so sánh dùng 没有, không dùng 不比 (trừ khi bác bỏ): ✓ 我没有他高。"]
+  },
+  {
+    "id": "hsk3-gp-004",
+    "title": "越来越… và 越…越…",
+    "level": 3,
+    "structure": "越来越 + tính từ/động từ; 越 A 越 B",
+    "explanationVi": "越来越 biểu thị mức độ tăng dần theo thời gian. 越 A 越 B nghĩa là 'càng A càng B'.",
+    "examples": [
+      { "hanzi": "天气越来越热了。", "pinyin": "tiānqì yuè lái yuè rè le.", "meaningVi": "Thời tiết ngày càng nóng." },
+      { "hanzi": "雨越下越大。", "pinyin": "yǔ yuè xià yuè dà.", "meaningVi": "Mưa càng lúc càng to." }
+    ],
+    "commonMistakes": ["越来越 không đi kèm 很: ❌ 越来越很热 → ✓ 越来越热."]
+  },
+  {
+    "id": "hsk3-gp-005",
+    "title": "一边 … 一边 … (vừa… vừa…)",
+    "level": 3,
+    "structure": "一边 + động từ 1 + 一边 + động từ 2",
+    "explanationVi": "Biểu thị hai hành động diễn ra đồng thời.",
+    "examples": [
+      { "hanzi": "他一边吃饭一边看电视。", "pinyin": "tā yìbiān chī fàn yìbiān kàn diànshì.", "meaningVi": "Anh ấy vừa ăn cơm vừa xem tivi." },
+      { "hanzi": "我们一边走一边聊天。", "pinyin": "wǒmen yìbiān zǒu yìbiān liáotiān.", "meaningVi": "Chúng tôi vừa đi vừa trò chuyện." }
+    ],
+    "commonMistakes": ["Hai hành động phải cùng chủ ngữ."]
+  },
+  {
+    "id": "hsk3-gp-006",
+    "title": "一 … 就 … (vừa… là…)",
+    "level": 3,
+    "structure": "一 + động từ 1 + 就 + động từ 2",
+    "explanationVi": "Biểu thị hành động 2 xảy ra ngay sau hành động 1, hoặc quan hệ điều kiện–kết quả tức thì.",
+    "examples": [
+      { "hanzi": "我一到家就给你打电话。", "pinyin": "wǒ yí dào jiā jiù gěi nǐ dǎ diànhuà.", "meaningVi": "Tôi vừa về đến nhà là gọi điện cho bạn ngay." },
+      { "hanzi": "他一说我就明白了。", "pinyin": "tā yì shuō wǒ jiù míngbai le.", "meaningVi": "Anh ấy vừa nói là tôi hiểu ngay." }
+    ],
+    "commonMistakes": ["就 đứng trước động từ của vế sau."]
+  },
+  {
+    "id": "hsk3-gp-007",
+    "title": "除了 … 以外 (ngoài… ra)",
+    "level": 3,
+    "structure": "除了 A (以外)，都/也/还 …",
+    "explanationVi": "'除了 A 以外，都 …' = loại trừ A (chỉ mình A khác); '除了 A 以外，还 …' = ngoài A còn thêm nữa.",
+    "examples": [
+      { "hanzi": "除了他，别人都来了。", "pinyin": "chúle tā, biéren dōu lái le.", "meaningVi": "Ngoài anh ấy ra, mọi người đều đến." },
+      { "hanzi": "除了汉语，我还会说英语。", "pinyin": "chúle Hànyǔ, wǒ hái huì shuō Yīngyǔ.", "meaningVi": "Ngoài tiếng Trung, tôi còn biết nói tiếng Anh." }
+    ],
+    "commonMistakes": ["Chú ý '都' (loại trừ) khác '还' (bổ sung)."]
+  },
+  {
+    "id": "hsk3-gp-008",
+    "title": "如果 … 就 … (nếu… thì…)",
+    "level": 3,
+    "structure": "如果/要是 + điều kiện，(就) + kết quả",
+    "explanationVi": "Biểu thị giả thiết – kết quả. 要是 là cách nói khẩu ngữ của 如果. Vế kết quả thường có 就.",
+    "examples": [
+      { "hanzi": "如果下雨，我就不去了。", "pinyin": "rúguǒ xià yǔ, wǒ jiù bú qù le.", "meaningVi": "Nếu trời mưa thì tôi không đi nữa." },
+      { "hanzi": "要是你有空，我们一起去。", "pinyin": "yàoshi nǐ yǒu kòng, wǒmen yìqǐ qù.", "meaningVi": "Nếu bạn rảnh thì chúng ta cùng đi." }
+    ],
+    "commonMistakes": ["Vế kết quả dùng 就, không dùng 才."]
+  },
+  {
+    "id": "hsk3-gp-009",
+    "title": "Bổ ngữ kết quả (V + 完/好/懂/到/见)",
+    "level": 3,
+    "structure": "Động từ + 完/好/懂/到/见 …",
+    "explanationVi": "Đặt tính từ/động từ sau động từ chính để chỉ kết quả của hành động: 完 (xong), 好 (hoàn tất tốt), 懂 (hiểu), 到/见 (đạt được, nhận ra). Phủ định dùng 没.",
+    "examples": [
+      { "hanzi": "我听懂老师的话了。", "pinyin": "wǒ tīng dǒng lǎoshī de huà le.", "meaningVi": "Tôi nghe hiểu lời thầy giáo rồi." },
+      { "hanzi": "作业我还没做完。", "pinyin": "zuòyè wǒ hái méi zuò wán.", "meaningVi": "Bài tập tôi vẫn chưa làm xong." }
+    ],
+    "commonMistakes": ["Phủ định dùng 没 và bỏ 了: ❌ 没做完了 → ✓ 没做完."]
+  },
+  {
+    "id": "hsk3-gp-010",
+    "title": "Bổ ngữ xu hướng đơn giản (来 / 去)",
+    "level": 3,
+    "structure": "Động từ + 来 / 去 (+ 起来 / 下去)",
+    "explanationVi": "来 chỉ hướng lại gần người nói, 去 chỉ hướng ra xa. 起来 chỉ bắt đầu/hướng lên, 下去 chỉ tiếp tục.",
+    "examples": [
+      { "hanzi": "请站起来。", "pinyin": "qǐng zhàn qǐlái.", "meaningVi": "Xin đứng dậy." },
+      { "hanzi": "他上来了。", "pinyin": "tā shàng lái le.", "meaningVi": "Anh ấy đi lên (chỗ tôi) rồi." }
+    ],
+    "commonMistakes": ["Chọn 来/去 theo vị trí của người nói."]
+  },
+  {
+    "id": "hsk3-gp-011",
+    "title": "又 … 又 … (vừa… vừa…, lại)",
+    "level": 3,
+    "structure": "又 + tính từ/động từ 1 + 又 + tính từ/động từ 2",
+    "explanationVi": "Nối hai đặc điểm/hành động cùng tồn tại. Khác 一边…一边… (đồng thời hành động), 又…又… thường nối tính chất.",
+    "examples": [
+      { "hanzi": "这个西瓜又大又甜。", "pinyin": "zhège xīguā yòu dà yòu tián.", "meaningVi": "Quả dưa hấu này vừa to vừa ngọt." },
+      { "hanzi": "他又聪明又努力。", "pinyin": "tā yòu cōngming yòu nǔlì.", "meaningVi": "Anh ấy vừa thông minh vừa chăm chỉ." }
+    ],
+    "commonMistakes": ["又 (đã lặp lại) khác 再 (sẽ lặp lại): 他又来了 (đã lại đến)."]
+  },
+  {
+    "id": "hsk3-gp-012",
+    "title": "Câu 是 … 的 (nhấn mạnh)",
+    "level": 3,
+    "structure": "Chủ ngữ + 是 + (thời gian/nơi/cách thức) + động từ + 的",
+    "explanationVi": "Dùng để nhấn mạnh thời gian, địa điểm, cách thức… của một việc đã xảy ra.",
+    "examples": [
+      { "hanzi": "我是昨天来的。", "pinyin": "wǒ shì zuótiān lái de.", "meaningVi": "Tôi đến (là vào) hôm qua." },
+      { "hanzi": "他是坐地铁来的。", "pinyin": "tā shì zuò dìtiě lái de.", "meaningVi": "Anh ấy đến (là bằng) tàu điện ngầm." }
+    ],
+    "commonMistakes": ["的 đứng cuối câu; dùng cho việc đã xảy ra."]
+  }
+]

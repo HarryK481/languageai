@@ -44,9 +44,26 @@
   {
     "level": 3,
     "name": "HSK 3",
-    "description": "Trung cấp 1 — giao tiếp công việc/học tập cơ bản, khoảng 600 từ.",
+    "description": "Trung cấp 1 — giao tiếp công việc/học tập cơ bản, khoảng 600 từ (lũy kế).",
     "wordCount": 600,
-    "topics": []
+    "topics": [
+      "hoc-tap",
+      "cong-viec",
+      "cam-xuc",
+      "thoi-gian",
+      "giao-thong",
+      "suc-khoe",
+      "the-thao",
+      "an-uong",
+      "mua-sam",
+      "gia-dinh",
+      "thien-nhien",
+      "thoi-tiet",
+      "dia-diem",
+      "do-vat",
+      "dac-diem",
+      "lien-ket"
+    ]
   },
   {
     "level": 4,

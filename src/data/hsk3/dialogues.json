@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "id": "hsk3-dlg-001",
+    "title": "Lâu ngày gặp lại",
+    "level": 3,
+    "situationVi": "Hai người bạn lâu ngày gặp nhau hỏi thăm.",
+    "lines": [
+      { "speaker": "A", "hanzi": "好久不见！你最近怎么样？", "pinyin": "hǎojiǔ bú jiàn! nǐ zuìjìn zěnmeyàng?", "meaningVi": "Lâu ngày không gặp! Dạo này bạn thế nào?" },
+      { "speaker": "B", "hanzi": "我最近很忙，一直在准备考试。", "pinyin": "wǒ zuìjìn hěn máng, yìzhí zài zhǔnbèi kǎoshì.", "meaningVi": "Dạo này tôi rất bận, luôn phải chuẩn bị cho kỳ thi." },
+      { "speaker": "A", "hanzi": "你努力学习，一定没问题。", "pinyin": "nǐ nǔlì xuéxí, yídìng méi wèntí.", "meaningVi": "Bạn cố gắng học, nhất định không sao đâu." },
+      { "speaker": "B", "hanzi": "谢谢你！", "pinyin": "xièxie nǐ!", "meaningVi": "Cảm ơn bạn!" }
+    ],
+    "newWords": ["hsk3-121", "hsk3-278", "hsk3-245", "hsk3-162", "hsk3-284"]
+  },
+  {
+    "id": "hsk3-dlg-002",
+    "title": "Ở công ty",
+    "level": 3,
+    "situationVi": "Hỏi giờ cuộc họp với giám đốc.",
+    "lines": [
+      { "speaker": "A", "hanzi": "经理，会议几点开始？", "pinyin": "jīnglǐ, huìyì jǐ diǎn kāishǐ?", "meaningVi": "Giám đốc, cuộc họp mấy giờ bắt đầu?" },
+      { "speaker": "B", "hanzi": "下午两点。你准备好了吗？", "pinyin": "xiàwǔ liǎng diǎn. nǐ zhǔnbèi hǎo le ma?", "meaningVi": "Hai giờ chiều. Anh chuẩn bị xong chưa?" },
+      { "speaker": "A", "hanzi": "都准备好了。", "pinyin": "dōu zhǔnbèi hǎo le.", "meaningVi": "Đã chuẩn bị xong hết rồi." },
+      { "speaker": "B", "hanzi": "好，别迟到。", "pinyin": "hǎo, bié chídào.", "meaningVi": "Được, đừng đến muộn nhé." }
+    ],
+    "newWords": ["hsk3-120", "hsk3-097", "hsk3-030"]
+  },
+  {
+    "id": "hsk3-dlg-003",
+    "title": "Xin nghỉ phép",
+    "level": 3,
+    "situationVi": "Học sinh xin thầy cho nghỉ vì ốm.",
+    "lines": [
+      { "speaker": "A", "hanzi": "老师，我今天想请假。", "pinyin": "lǎoshī, wǒ jīntiān xiǎng qǐngjià.", "meaningVi": "Thầy ơi, hôm nay em muốn xin nghỉ." },
+      { "speaker": "B", "hanzi": "你怎么了？", "pinyin": "nǐ zěnme le?", "meaningVi": "Em bị làm sao vậy?" },
+      { "speaker": "A", "hanzi": "我感冒了，有点发烧。", "pinyin": "wǒ gǎnmào le, yǒudiǎn fāshāo.", "meaningVi": "Em bị cảm, hơi sốt." },
+      { "speaker": "B", "hanzi": "那你回家休息吧，注意身体。", "pinyin": "nà nǐ huí jiā xiūxi ba, zhùyì shēntǐ.", "meaningVi": "Vậy em về nhà nghỉ đi, chú ý sức khỏe." }
+    ],
+    "newWords": ["hsk3-175", "hsk3-068", "hsk3-059", "hsk3-272"]
+  },
+  {
+    "id": "hsk3-dlg-004",
+    "title": "Ở thư viện",
+    "level": 3,
+    "situationVi": "Hỏi đường và mượn sách ở thư viện.",
+    "lines": [
+      { "speaker": "A", "hanzi": "请问，图书馆在哪儿？", "pinyin": "qǐngwèn, túshūguǎn zài nǎr?", "meaningVi": "Xin hỏi, thư viện ở đâu?" },
+      { "speaker": "B", "hanzi": "在前面那个楼。", "pinyin": "zài qiánmiàn nàge lóu.", "meaningVi": "Ở tòa nhà phía trước kia." },
+      { "speaker": "A", "hanzi": "我想借一本汉语词典。", "pinyin": "wǒ xiǎng jiè yì běn Hànyǔ cídiǎn.", "meaningVi": "Tôi muốn mượn một quyển từ điển tiếng Trung." },
+      { "speaker": "B", "hanzi": "可以，就在里面。", "pinyin": "kěyǐ, jiù zài lǐmiàn.", "meaningVi": "Được, ngay ở bên trong đó." }
+    ],
+    "newWords": ["hsk3-210", "hsk3-145", "hsk3-117", "hsk3-035"]
+  },
+  {
+    "id": "hsk3-dlg-005",
+    "title": "Nói về sở thích",
+    "level": 3,
+    "situationVi": "Trò chuyện về sở thích và thể thao.",
+    "lines": [
+      { "speaker": "A", "hanzi": "你有什么爱好？", "pinyin": "nǐ yǒu shénme àihào?", "meaningVi": "Bạn có sở thích gì?" },
+      { "speaker": "B", "hanzi": "我喜欢锻炼，经常去爬山。", "pinyin": "wǒ xǐhuan duànliàn, jīngcháng qù páshān.", "meaningVi": "Tôi thích tập luyện, thường đi leo núi." },
+      { "speaker": "A", "hanzi": "我也喜欢体育，我们一起去吧。", "pinyin": "wǒ yě xǐhuan tǐyù, wǒmen yìqǐ qù ba.", "meaningVi": "Tôi cũng thích thể thao, chúng ta cùng đi nhé." },
+      { "speaker": "B", "hanzi": "好，一起去。", "pinyin": "hǎo, yìqǐ qù.", "meaningVi": "Được, cùng đi." }
+    ],
+    "newWords": ["hsk3-003", "hsk3-054", "hsk3-118", "hsk3-163", "hsk3-203"]
+  },
+  {
+    "id": "hsk3-dlg-006",
+    "title": "Đi khám bệnh",
+    "level": 3,
+    "situationVi": "Nói với bác sĩ về tình trạng sức khỏe.",
+    "lines": [
+      { "speaker": "A", "hanzi": "医生，我最近很不舒服。", "pinyin": "yīshēng, wǒ zuìjìn hěn bù shūfu.", "meaningVi": "Bác sĩ, dạo này tôi rất khó chịu." },
+      { "speaker": "B", "hanzi": "你哪儿不舒服？", "pinyin": "nǐ nǎr bù shūfu?", "meaningVi": "Anh khó chịu ở đâu?" },
+      { "speaker": "A", "hanzi": "我发烧了，也很累。", "pinyin": "wǒ fāshāo le, yě hěn lèi.", "meaningVi": "Tôi bị sốt, cũng rất mệt." },
+      { "speaker": "B", "hanzi": "你要多喝水，多休息。", "pinyin": "nǐ yào duō hē shuǐ, duō xiūxi.", "meaningVi": "Anh phải uống nhiều nước, nghỉ ngơi nhiều." }
+    ],
+    "newWords": ["hsk3-192", "hsk3-059"]
+  },
+  {
+    "id": "hsk3-dlg-007",
+    "title": "Ở siêu thị",
+    "level": 3,
+    "situationVi": "Thanh toán bằng thẻ ở siêu thị.",
+    "lines": [
+      { "speaker": "A", "hanzi": "这几个水果一共多少钱？", "pinyin": "zhè jǐ ge shuǐguǒ yígòng duōshao qián?", "meaningVi": "Mấy quả hoa quả này tổng cộng bao nhiêu tiền?" },
+      { "speaker": "B", "hanzi": "一共二十元。", "pinyin": "yígòng èrshí yuán.", "meaningVi": "Tổng cộng hai mươi đồng." },
+      { "speaker": "A", "hanzi": "我用信用卡，可以吗？", "pinyin": "wǒ yòng xìnyòngkǎ, kěyǐ ma?", "meaningVi": "Tôi dùng thẻ tín dụng được không?" },
+      { "speaker": "B", "hanzi": "可以。", "pinyin": "kěyǐ.", "meaningVi": "Được ạ." }
+    ],
+    "newWords": ["hsk3-287", "hsk3-255", "hsk3-235"]
+  },
+  {
+    "id": "hsk3-dlg-008",
+    "title": "Kế hoạch tương lai",
+    "level": 3,
+    "situationVi": "Nói về dự định sau này.",
+    "lines": [
+      { "speaker": "A", "hanzi": "你以后想做什么？", "pinyin": "nǐ yǐhòu xiǎng zuò shénme?", "meaningVi": "Sau này bạn muốn làm gì?" },
+      { "speaker": "B", "hanzi": "我以后想教汉语。", "pinyin": "wǒ yǐhòu xiǎng jiāo Hànyǔ.", "meaningVi": "Sau này tôi muốn dạy tiếng Trung." },
+      { "speaker": "A", "hanzi": "为什么？", "pinyin": "wèishénme?", "meaningVi": "Tại sao vậy?" },
+      { "speaker": "B", "hanzi": "因为我喜欢跟孩子在一起。", "pinyin": "yīnwèi wǒ xǐhuan gēn háizi zài yìqǐ.", "meaningVi": "Vì tôi thích ở cùng bọn trẻ." }
+    ],
+    "newWords": ["hsk3-283", "hsk3-107", "hsk3-073"]
+  },
+  {
+    "id": "hsk3-dlg-009",
+    "title": "Trên lớp học",
+    "level": 3,
+    "situationVi": "Hỏi thầy về câu chưa hiểu.",
+    "lines": [
+      { "speaker": "A", "hanzi": "老师，这个句子我不懂。", "pinyin": "lǎoshī, zhège jùzi wǒ bù dǒng.", "meaningVi": "Thầy ơi, câu này em không hiểu." },
+      { "speaker": "B", "hanzi": "哪个句子？", "pinyin": "nǎge jùzi?", "meaningVi": "Câu nào?" },
+      { "speaker": "A", "hanzi": "就是黑板上的这个。", "pinyin": "jiù shì hēibǎn shàng de zhège.", "meaningVi": "Chính là câu trên bảng này ạ." },
+      { "speaker": "B", "hanzi": "我再给你讲一遍。", "pinyin": "wǒ zài gěi nǐ jiǎng yí biàn.", "meaningVi": "Thầy giảng lại cho em một lần nữa." }
+    ],
+    "newWords": ["hsk3-124", "hsk3-087", "hsk3-106", "hsk3-292"]
+  },
+  {
+    "id": "hsk3-dlg-010",
+    "title": "Đi tàu điện ngầm",
+    "level": 3,
+    "situationVi": "Hỏi đường đến ga tàu bằng tàu điện ngầm.",
+    "lines": [
+      { "speaker": "A", "hanzi": "请问，去火车站怎么走？", "pinyin": "qǐngwèn, qù huǒchēzhàn zěnme zǒu?", "meaningVi": "Xin hỏi, đến ga tàu đi thế nào?" },
+      { "speaker": "B", "hanzi": "你可以坐地铁，很方便。", "pinyin": "nǐ kěyǐ zuò dìtiě, hěn fāngbiàn.", "meaningVi": "Bạn có thể đi tàu điện ngầm, rất tiện." },
+      { "speaker": "A", "hanzi": "地铁站离这儿远吗？", "pinyin": "dìtiě zhàn lí zhèr yuǎn ma?", "meaningVi": "Ga tàu điện ngầm có xa đây không?" },
+      { "speaker": "B", "hanzi": "不远，一直往前走就到了。", "pinyin": "bù yuǎn, yìzhí wǎng qián zǒu jiù dào le.", "meaningVi": "Không xa, cứ đi thẳng về phía trước là tới." }
+    ],
+    "newWords": ["hsk3-045", "hsk3-061", "hsk3-259", "hsk3-245"]
+  }
+]
