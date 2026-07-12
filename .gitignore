@@ -10,4 +10,6 @@ next-env.d.ts
 
 # File phát âm mp3 sinh tự động (giọng Edge TTS) — không commit lên repo public.
 # Tạo lại bằng: npm run gen-audio
-/public/audio/
+# Bỏ qua toàn bộ nội dung audio, NHƯNG vẫn giữ README nhắc việc.
+/public/audio/*
+!/public/audio/README.md
