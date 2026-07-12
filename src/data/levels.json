@@ -14,7 +14,9 @@
       "hoat-dong",
       "dia-diem",
       "dac-diem",
-      "nghi-van"
+      "nghi-van",
+      "giao-thong",
+      "lien-ket"
     ]
   },
   {
@@ -22,7 +24,22 @@
     "name": "HSK 2",
     "description": "Sơ cấp 2 — trao đổi thông tin quen thuộc, khoảng 300 từ (lũy kế).",
     "wordCount": 300,
-    "topics": []
+    "topics": [
+      "gia-dinh",
+      "so-dem",
+      "thoi-gian",
+      "do-vat",
+      "an-uong",
+      "hoat-dong",
+      "giao-thong",
+      "cong-viec",
+      "the-thao",
+      "suc-khoe",
+      "thoi-tiet",
+      "mua-sam",
+      "dac-diem",
+      "lien-ket"
+    ]
   },
   {
     "level": 3,

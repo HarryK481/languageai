@@ -34,7 +34,7 @@
       { "speaker": "A", "hanzi": "现在几点？", "pinyin": "xiànzài jǐ diǎn?", "meaningVi": "Bây giờ mấy giờ?" },
       { "speaker": "B", "hanzi": "现在八点。", "pinyin": "xiànzài bā diǎn.", "meaningVi": "Bây giờ 8 giờ." },
       { "speaker": "A", "hanzi": "我们几点去学校？", "pinyin": "wǒmen jǐ diǎn qù xuéxiào?", "meaningVi": "Mấy giờ chúng ta đi học?" },
-      { "speaker": "B", "hanzi": "八点半。", "pinyin": "bā diǎn bàn.", "meaningVi": "8 giờ rưỡi." }
+      { "speaker": "B", "hanzi": "九点。", "pinyin": "jiǔ diǎn.", "meaningVi": "9 giờ." }
     ],
     "newWords": ["hsk1-047", "hsk1-105", "hsk1-045", "hsk1-075", "hsk1-085"]
   },
@@ -59,9 +59,9 @@
     "lines": [
       { "speaker": "A", "hanzi": "你喜欢做什么？", "pinyin": "nǐ xǐhuan zuò shénme?", "meaningVi": "Bạn thích làm gì?" },
       { "speaker": "B", "hanzi": "我喜欢看书。你呢？", "pinyin": "wǒ xǐhuan kàn shū. nǐ ne?", "meaningVi": "Tôi thích đọc sách. Còn bạn?" },
-      { "speaker": "A", "hanzi": "我喜欢听音乐。", "pinyin": "wǒ xǐhuan tīng yīnyuè.", "meaningVi": "Tôi thích nghe nhạc." },
-      { "speaker": "B", "hanzi": "我也是！", "pinyin": "wǒ yě shì!", "meaningVi": "Tôi cũng vậy!" }
+      { "speaker": "A", "hanzi": "我喜欢看电影。你喜欢吗？", "pinyin": "wǒ xǐhuan kàn diànyǐng. nǐ xǐhuan ma?", "meaningVi": "Tôi thích xem phim. Bạn thích không?" },
+      { "speaker": "B", "hanzi": "我很喜欢！", "pinyin": "wǒ hěn xǐhuan!", "meaningVi": "Tôi rất thích!" }
     ],
-    "newWords": ["hsk1-079", "hsk1-073", "hsk1-065", "hsk1-066", "hsk1-048"]
+    "newWords": ["hsk1-079", "hsk1-073", "hsk1-065", "hsk1-125", "hsk1-048"]
   }
 ]

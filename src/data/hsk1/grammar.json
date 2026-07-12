@@ -91,7 +91,7 @@
     "explanationVi": "Giữa số đếm và danh từ bắt buộc có lượng từ. Lượng từ chung là 个.",
     "examples": [
       { "hanzi": "三个人", "pinyin": "sān ge rén", "meaningVi": "ba người" },
-      { "hanzi": "两本书", "pinyin": "liǎng běn shū", "meaningVi": "hai quyển sách" }
+      { "hanzi": "五本书", "pinyin": "wǔ běn shū", "meaningVi": "năm quyển sách" }
     ],
     "commonMistakes": ["Không nói số + danh từ trực tiếp: ❌ 三人 → ✓ 三个人.", "Trước lượng từ, '2' dùng 两 chứ không dùng 二: ✓ 两个."]
   },

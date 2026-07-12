@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "id": "hsk2-gp-001",
+    "title": "Câu so sánh với 比 (bǐ)",
+    "level": 2,
+    "structure": "A + 比 + B + tính từ",
+    "explanationVi": "Dùng 比 để so sánh hai đối tượng, biểu thị A hơn B ở một tính chất. Không dùng 很/非常 trước tính từ; muốn nhấn mạnh mức độ dùng 更 hoặc 还.",
+    "examples": [
+      { "hanzi": "今天比昨天热。", "pinyin": "jīntiān bǐ zuótiān rè.", "meaningVi": "Hôm nay nóng hơn hôm qua." },
+      { "hanzi": "他比我高。", "pinyin": "tā bǐ wǒ gāo.", "meaningVi": "Anh ấy cao hơn tôi." }
+    ],
+    "commonMistakes": ["Không thêm 很 trong câu so sánh: ❌ 今天比昨天很热 → ✓ 今天比昨天热。"]
+  },
+  {
+    "id": "hsk2-gp-002",
+    "title": "Bổ ngữ trạng thái với 得 (de)",
+    "level": 2,
+    "structure": "Động từ + 得 + (很) + tính từ",
+    "explanationVi": "得 nối động từ với bổ ngữ miêu tả mức độ/kết quả của hành động. Nếu có tân ngữ, phải lặp lại động từ: động từ + tân ngữ + động từ + 得 + …",
+    "examples": [
+      { "hanzi": "他跑得很快。", "pinyin": "tā pǎo de hěn kuài.", "meaningVi": "Anh ấy chạy rất nhanh." },
+      { "hanzi": "她说汉语说得很好。", "pinyin": "tā shuō Hànyǔ shuō de hěn hǎo.", "meaningVi": "Cô ấy nói tiếng Trung rất giỏi." }
+    ],
+    "commonMistakes": ["Có tân ngữ thì phải lặp động từ: ❌ 他说汉语得很好 → ✓ 他说汉语说得很好。"]
+  },
+  {
+    "id": "hsk2-gp-003",
+    "title": "Trợ từ động thái 了 (le) — hành động hoàn thành",
+    "level": 2,
+    "structure": "Động từ + 了 (+ tân ngữ)",
+    "explanationVi": "了 đặt sau động từ biểu thị hành động đã hoàn thành/đã xảy ra. Phủ định dùng 没(有) và bỏ 了.",
+    "examples": [
+      { "hanzi": "我买了两件衣服。", "pinyin": "wǒ mǎi le liǎng jiàn yīfu.", "meaningVi": "Tôi đã mua hai chiếc áo." },
+      { "hanzi": "他去了商店。", "pinyin": "tā qù le shāngdiàn.", "meaningVi": "Anh ấy đã đi cửa hàng." }
+    ],
+    "commonMistakes": ["Phủ định bỏ 了: ❌ 我没买了 → ✓ 我没买。"]
+  },
+  {
+    "id": "hsk2-gp-004",
+    "title": "Trợ từ 过 (guo) — kinh nghiệm từng trải",
+    "level": 2,
+    "structure": "Động từ + 过 (+ tân ngữ)",
+    "explanationVi": "过 biểu thị đã từng trải qua/làm việc gì đó trong quá khứ. Phủ định dùng 没(有) … 过.",
+    "examples": [
+      { "hanzi": "我去过北京。", "pinyin": "wǒ qù guo Běijīng.", "meaningVi": "Tôi từng đi Bắc Kinh." },
+      { "hanzi": "我没吃过羊肉。", "pinyin": "wǒ méi chī guo yángròu.", "meaningVi": "Tôi chưa từng ăn thịt cừu." }
+    ],
+    "commonMistakes": ["Phủ định giữ 过, dùng 没: ❌ 我不去过 → ✓ 我没去过。"]
+  },
+  {
+    "id": "hsk2-gp-005",
+    "title": "Hành động đang diễn ra: 正在 / 在 … 呢",
+    "level": 2,
+    "structure": "(正)在 + động từ (+ 呢)",
+    "explanationVi": "Dùng 正在/在 trước động từ (thường kèm 呢 cuối câu) để chỉ hành động đang tiếp diễn ngay lúc nói.",
+    "examples": [
+      { "hanzi": "我正在吃饭。", "pinyin": "wǒ zhèngzài chī fàn.", "meaningVi": "Tôi đang ăn cơm." },
+      { "hanzi": "他在看电视呢。", "pinyin": "tā zài kàn diànshì ne.", "meaningVi": "Anh ấy đang xem tivi." }
+    ],
+    "commonMistakes": ["Không dùng 正在 với trạng thái tĩnh: ❌ 我正在有钱 → ✓ 我有钱。"]
+  },
+  {
+    "id": "hsk2-gp-006",
+    "title": "Trợ từ 着 (zhe) — trạng thái tiếp diễn",
+    "level": 2,
+    "structure": "Động từ + 着",
+    "explanationVi": "着 biểu thị trạng thái đang duy trì sau khi hành động xảy ra, hoặc cách thức đi kèm hành động chính (V1 + 着 + V2).",
+    "examples": [
+      { "hanzi": "门开着。", "pinyin": "mén kāi zhe.", "meaningVi": "Cửa đang mở." },
+      { "hanzi": "他站着说话。", "pinyin": "tā zhàn zhe shuōhuà.", "meaningVi": "Anh ấy đứng nói chuyện." }
+    ],
+    "commonMistakes": ["着 chỉ trạng thái, không thay cho 正在 chỉ hành động đang xảy ra."]
+  },
+  {
+    "id": "hsk2-gp-007",
+    "title": "Câu chữ 离 (lí) — khoảng cách",
+    "level": 2,
+    "structure": "A + 离 + B + 远 / 近",
+    "explanationVi": "Dùng 离 để nói A cách B bao xa/gần về không gian hoặc thời gian.",
+    "examples": [
+      { "hanzi": "我家离学校很近。", "pinyin": "wǒ jiā lí xuéxiào hěn jìn.", "meaningVi": "Nhà tôi rất gần trường." },
+      { "hanzi": "火车站离这儿远吗？", "pinyin": "huǒchēzhàn lí zhèr yuǎn ma?", "meaningVi": "Ga tàu có xa đây không?" }
+    ],
+    "commonMistakes": ["Đừng nhầm 离 với 从: 从 chỉ điểm xuất phát, 离 chỉ khoảng cách."]
+  },
+  {
+    "id": "hsk2-gp-008",
+    "title": "Câu chữ 从 (cóng) — điểm xuất phát",
+    "level": 2,
+    "structure": "从 + nơi/lúc + động từ",
+    "explanationVi": "从 biểu thị điểm bắt đầu về nơi chốn hoặc thời gian. Thường đi cặp với 到 (đến).",
+    "examples": [
+      { "hanzi": "我从家到公司很近。", "pinyin": "wǒ cóng jiā dào gōngsī hěn jìn.", "meaningVi": "Từ nhà tôi đến công ty rất gần." },
+      { "hanzi": "我从八点开始工作。", "pinyin": "wǒ cóng bā diǎn kāishǐ gōngzuò.", "meaningVi": "Tôi bắt đầu làm việc từ 8 giờ." }
+    ],
+    "commonMistakes": ["从 đặt trước động từ, không đặt cuối câu."]
+  },
+  {
+    "id": "hsk2-gp-009",
+    "title": "Nguyên nhân – kết quả: 因为 … 所以 …",
+    "level": 2,
+    "structure": "因为 + nguyên nhân, 所以 + kết quả",
+    "explanationVi": "Cặp liên từ biểu thị quan hệ nhân quả. Có thể lược bỏ một trong hai vế, nhưng không dùng thừa cả 因为 lẫn 所以 sai vị trí.",
+    "examples": [
+      { "hanzi": "因为下雨，所以我没去。", "pinyin": "yīnwèi xià yǔ, suǒyǐ wǒ méi qù.", "meaningVi": "Vì trời mưa nên tôi không đi." },
+      { "hanzi": "他因为生病没来上课。", "pinyin": "tā yīnwèi shēngbìng méi lái shàngkè.", "meaningVi": "Anh ấy vì ốm nên không đến lớp." }
+    ],
+    "commonMistakes": ["Không đảo: 所以 đứng ở vế kết quả, 因为 ở vế nguyên nhân."]
+  },
+  {
+    "id": "hsk2-gp-010",
+    "title": "Nhượng bộ: 虽然 … 但是 …",
+    "level": 2,
+    "structure": "虽然 + A, 但是/可是 + B",
+    "explanationVi": "Cặp liên từ biểu thị 'tuy … nhưng …', nối hai vế có ý trái ngược. 但是 không thể lược khi đã dùng 虽然.",
+    "examples": [
+      { "hanzi": "虽然很累，但是我很快乐。", "pinyin": "suīrán hěn lèi, dànshì wǒ hěn kuàilè.", "meaningVi": "Tuy rất mệt nhưng tôi rất vui." },
+      { "hanzi": "这个菜虽然贵，但是很好吃。", "pinyin": "zhège cài suīrán guì, dànshì hěn hǎochī.", "meaningVi": "Món này tuy đắt nhưng rất ngon." }
+    ],
+    "commonMistakes": ["Tiếng Việt bỏ 'nhưng' nhưng tiếng Trung phải giữ 但是: ❌ 虽然贵，很好吃 → ✓ 虽然贵，但是很好吃。"]
+  },
+  {
+    "id": "hsk2-gp-011",
+    "title": "Trợ động từ 要 / 想 / 可以 / 会",
+    "level": 2,
+    "structure": "Chủ ngữ + 要/想/可以/会 + động từ",
+    "explanationVi": "要 (muốn/cần, sẽ), 想 (muốn, dự định), 可以 (được phép/có thể), 会 (biết làm, sẽ). Phủ định của 要/想 thường dùng 不想; của 可以 dùng 不能.",
+    "examples": [
+      { "hanzi": "我要去商店。", "pinyin": "wǒ yào qù shāngdiàn.", "meaningVi": "Tôi cần đi cửa hàng." },
+      { "hanzi": "我可以进来吗？", "pinyin": "wǒ kěyǐ jìnlái ma?", "meaningVi": "Tôi vào được không?" }
+    ],
+    "commonMistakes": ["Phủ định 'không muốn' dùng 不想, không dùng 不要 (nghĩa là 'đừng'): 不要走 = Đừng đi."]
+  },
+  {
+    "id": "hsk2-gp-012",
+    "title": "副词 就 và 再 — 'ngay' và 'lại (lần sau)'",
+    "level": 2,
+    "structure": "就 / 再 + động từ",
+    "explanationVi": "就 nhấn mạnh sớm/ngay lập tức, hoặc nối điều kiện–kết quả. 再 chỉ sự lặp lại chưa xảy ra (lần sau). Đã xảy ra rồi thì dùng 又.",
+    "examples": [
+      { "hanzi": "我现在就来。", "pinyin": "wǒ xiànzài jiù lái.", "meaningVi": "Tôi đến ngay đây." },
+      { "hanzi": "请再说一次。", "pinyin": "qǐng zài shuō yí cì.", "meaningVi": "Xin nói lại một lần nữa." }
+    ],
+    "commonMistakes": ["Lặp lại đã xảy ra dùng 又, chưa xảy ra dùng 再: ❌ 他昨天再来了 → ✓ 他昨天又来了。"]
+  }
+]

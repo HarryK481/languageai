@@ -8,5 +8,12 @@
   { "code": "hoat-dong", "name": "Hoạt động hằng ngày" },
   { "code": "dia-diem", "name": "Địa điểm & phương hướng" },
   { "code": "dac-diem", "name": "Tính chất & cảm xúc" },
-  { "code": "nghi-van", "name": "Đại từ nghi vấn" }
+  { "code": "nghi-van", "name": "Đại từ nghi vấn" },
+  { "code": "giao-thong", "name": "Giao thông & du lịch" },
+  { "code": "cong-viec", "name": "Công việc & học tập" },
+  { "code": "the-thao", "name": "Thể thao & giải trí" },
+  { "code": "suc-khoe", "name": "Sức khỏe & cơ thể" },
+  { "code": "thoi-tiet", "name": "Thời tiết & màu sắc" },
+  { "code": "mua-sam", "name": "Mua sắm & tiền" },
+  { "code": "lien-ket", "name": "Từ nối & phó từ" }
 ]
