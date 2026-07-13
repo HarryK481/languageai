@@ -26,11 +26,13 @@ npm run gen-audio    # sinh mp3 vào public/audio/ + cập nhật src/data/audio
 
 | Cấp | Đã có audio |
 |-----|-------------|
-| HSK 1 | 150 từ + câu ví dụ |
-| HSK 2 | 150 từ + câu ví dụ |
-| HSK 3 | 300 từ + câu ví dụ |
-| HSK 4 | 600 từ + câu ví dụ + ngữ pháp + hội thoại |
-| Tổng | ~2396 file mp3 (~22.3 MB), 0 file rỗng |
+| HSK 1 | 150 từ + ví dụ + ngữ pháp + hội thoại |
+| HSK 2 | 150 từ + ví dụ + ngữ pháp + hội thoại |
+| HSK 3 | 300 từ + ví dụ + ngữ pháp + hội thoại |
+| HSK 4 | 600 từ + ví dụ + ngữ pháp + hội thoại |
+| Tổng | ~2579 file mp3 (~24.8 MB), 0 file rỗng |
+
+> Script `gen-audio` phủ **từ vựng + câu ví dụ + câu ngữ pháp + lượt hội thoại** của mọi cấp có dữ liệu.
 
 Manifest ánh xạ `text → file`: [`src/data/audio-manifest.json`](../../src/data/audio-manifest.json) — file này **có** trong repo.
 

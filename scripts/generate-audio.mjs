@@ -26,17 +26,31 @@ const hash = (t) => createHash("sha1").update(t).digest("hex").slice(0, 16);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const exists = (p) => stat(p).then(() => true).catch(() => false);
 
-// Gom tất cả chuỗi Hán tự cần phát âm (từ vựng + ví dụ), khử trùng lặp.
+// Gom tất cả chuỗi Hán tự cần phát âm, khử trùng lặp:
+// - Từ vựng: từ + câu ví dụ
+// - Ngữ pháp: câu ví dụ
+// - Hội thoại: từng lượt thoại
 async function collectTexts() {
   const set = new Set();
+  const readJson = async (file) =>
+    (await exists(file)) ? JSON.parse(await readFile(file, "utf8")) : null;
+
   for (const lv of LEVELS) {
-    const file = join(DATA_DIR, `hsk${lv}`, "vocabulary.json");
-    if (!(await exists(file))) continue;
-    const words = JSON.parse(await readFile(file, "utf8"));
-    for (const w of words) {
+    const dir = join(DATA_DIR, `hsk${lv}`);
+
+    const words = await readJson(join(dir, "vocabulary.json"));
+    for (const w of words ?? []) {
       if (w.hanzi) set.add(w.hanzi);
       for (const ex of w.examples ?? []) if (ex.hanzi) set.add(ex.hanzi);
     }
+
+    const grammar = await readJson(join(dir, "grammar.json"));
+    for (const g of grammar ?? [])
+      for (const ex of g.examples ?? []) if (ex.hanzi) set.add(ex.hanzi);
+
+    const dialogues = await readJson(join(dir, "dialogues.json"));
+    for (const d of dialogues ?? [])
+      for (const ln of d.lines ?? []) if (ln.hanzi) set.add(ln.hanzi);
   }
   return [...set];
 }
