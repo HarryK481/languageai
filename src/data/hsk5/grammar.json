@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "id": "hsk5-gp-001",
+    "title": "不但不/没……反而…… (không những không… mà trái lại…)",
+    "level": 5,
+    "structure": "不但不/没 + A, 反而 + B (B ngược với dự đoán)",
+    "explanationVi": "Nhấn mạnh kết quả trái ngược hoàn toàn với điều người ta mong đợi. Vế sau dùng 反而 để nêu điều bất ngờ.",
+    "examples": [
+      { "hanzi": "他不但没生气，反而笑了。", "pinyin": "tā búdàn méi shēngqì, fǎn'ér xiào le.", "meaningVi": "Anh ấy không những không giận mà trái lại còn cười." },
+      { "hanzi": "吃了药，病不但没好，反而更严重了。", "pinyin": "chī le yào, bìng búdàn méi hǎo, fǎn'ér gèng yánzhòng le.", "meaningVi": "Uống thuốc rồi, bệnh không những không khỏi mà còn nặng hơn." }
+    ],
+    "commonMistakes": ["Vế sau dùng 反而, không dùng 但是: nhấn mạnh sự trái ngược bất ngờ."]
+  },
+  {
+    "id": "hsk5-gp-002",
+    "title": "宁可……也不…… (thà… chứ không…)",
+    "level": 5,
+    "structure": "宁可 + A, 也不 + B (chọn A, kiên quyết bỏ B)",
+    "explanationVi": "Biểu thị sự lựa chọn dứt khoát: chấp nhận A (thường không dễ chịu) để tránh B. Thể hiện quyết tâm, thái độ.",
+    "examples": [
+      { "hanzi": "我宁可走路，也不坐他的车。", "pinyin": "wǒ nìngkě zǒulù, yě bù zuò tā de chē.", "meaningVi": "Tôi thà đi bộ chứ không đi xe của anh ta." },
+      { "hanzi": "他宁可自己吃亏，也不愿意骗人。", "pinyin": "tā nìngkě zìjǐ chīkuī, yě bú yuànyì piàn rén.", "meaningVi": "Anh ấy thà chịu thiệt chứ không muốn lừa người." }
+    ],
+    "commonMistakes": ["Phân biệt với 与其……不如……: 宁可 nhấn mạnh quyết tâm, 与其 thiên về so sánh chọn lựa."]
+  },
+  {
+    "id": "hsk5-gp-003",
+    "title": "与其……不如…… (thay vì… chẳng bằng…)",
+    "level": 5,
+    "structure": "与其 + A, 不如 + B (so sánh, chọn B hơn A)",
+    "explanationVi": "So sánh hai phương án và cho rằng B tốt hơn A. Dùng khi đưa ra lời khuyên hoặc lựa chọn.",
+    "examples": [
+      { "hanzi": "与其在家等待，不如出去找工作。", "pinyin": "yǔqí zài jiā děngdài, bùrú chūqù zhǎo gōngzuò.", "meaningVi": "Thay vì ở nhà chờ đợi, chẳng bằng ra ngoài tìm việc." },
+      { "hanzi": "与其买贵的，不如买合适的。", "pinyin": "yǔqí mǎi guì de, bùrú mǎi héshì de.", "meaningVi": "Thay vì mua đồ đắt, chẳng bằng mua đồ phù hợp." }
+    ],
+    "commonMistakes": ["不如 dẫn ra phương án được ưu tiên (B); đừng đảo ngược trật tự A và B."]
+  },
+  {
+    "id": "hsk5-gp-004",
+    "title": "除非……否则/才…… (trừ phi… nếu không thì/mới…)",
+    "level": 5,
+    "structure": "除非 + điều kiện duy nhất, 否则 + hậu quả ; hoặc 除非 + A, 才 + B",
+    "explanationVi": "Nêu điều kiện duy nhất. 除非A否则B: nếu không có A thì sẽ có hậu quả B. 除非A才B: chỉ khi A mới B.",
+    "examples": [
+      { "hanzi": "除非你去,否则我不去。", "pinyin": "chúfēi nǐ qù, fǒuzé wǒ bú qù.", "meaningVi": "Trừ phi bạn đi, nếu không tôi sẽ không đi." },
+      { "hanzi": "除非努力学习，才能取得好成绩。", "pinyin": "chúfēi nǔlì xuéxí, cái néng qǔdé hǎo chéngjì.", "meaningVi": "Trừ phi chăm học mới đạt được thành tích tốt." }
+    ],
+    "commonMistakes": ["除非 đi với 否则 (nêu hậu quả ngược) hoặc 才 (nêu điều kiện cần)."]
+  },
+  {
+    "id": "hsk5-gp-005",
+    "title": "越是……越…… (càng… càng…)",
+    "level": 5,
+    "structure": "越是 + A, 越 + B (B tăng theo A)",
+    "explanationVi": "Nhấn mạnh mức độ B thay đổi theo A; mang sắc thái mạnh hơn cấu trúc 越……越…… thông thường.",
+    "examples": [
+      { "hanzi": "越是困难的时候，越要冷静。", "pinyin": "yuè shì kùnnan de shíhou, yuè yào lěngjìng.", "meaningVi": "Càng lúc khó khăn, càng phải bình tĩnh." },
+      { "hanzi": "越是重要的事，越应该认真对待。", "pinyin": "yuè shì zhòngyào de shì, yuè yīnggāi rènzhēn duìdài.", "meaningVi": "Việc càng quan trọng, càng nên đối xử nghiêm túc." }
+    ],
+    "commonMistakes": ["越是 nhấn mạnh điều kiện; vế sau dùng 越 + kết quả biến đổi tương ứng."]
+  },
+  {
+    "id": "hsk5-gp-006",
+    "title": "以……为…… (lấy… làm…)",
+    "level": 5,
+    "structure": "以 + A + 为 + B (coi A là B / lấy A làm B)",
+    "explanationVi": "Cấu trúc văn viết, biểu thị coi A là B, lấy A làm chuẩn/trung tâm/mục tiêu.",
+    "examples": [
+      { "hanzi": "我们要以质量为主。", "pinyin": "wǒmen yào yǐ zhìliàng wéi zhǔ.", "meaningVi": "Chúng ta phải lấy chất lượng làm chính." },
+      { "hanzi": "他以帮助别人为快乐。", "pinyin": "tā yǐ bāngzhù biéren wéi kuàilè.", "meaningVi": "Anh ấy lấy việc giúp người làm niềm vui." }
+    ],
+    "commonMistakes": ["以……为…… là cấu trúc cố định, 以 và 为 đi thành cặp, thiên về văn viết."]
+  },
+  {
+    "id": "hsk5-gp-007",
+    "title": "在……看来 (theo… nhận thấy / dưới góc nhìn của…)",
+    "level": 5,
+    "structure": "在 + người + 看来, + quan điểm",
+    "explanationVi": "Dẫn ra quan điểm, cách nhìn nhận của một người về sự việc. Thường đặt đầu câu.",
+    "examples": [
+      { "hanzi": "在我看来，这个方法更好。", "pinyin": "zài wǒ kànlái, zhège fāngfǎ gèng hǎo.", "meaningVi": "Theo tôi thấy, phương pháp này tốt hơn." },
+      { "hanzi": "在他看来，健康比金钱更重要。", "pinyin": "zài tā kànlái, jiànkāng bǐ jīnqián gèng zhòngyào.", "meaningVi": "Theo anh ấy, sức khỏe quan trọng hơn tiền bạc." }
+    ],
+    "commonMistakes": ["Cấu trúc cố định 在……看来, không tách rời; sau nó là ý kiến chủ quan."]
+  },
+  {
+    "id": "hsk5-gp-008",
+    "title": "不是……就是…… (nếu không phải… thì là…)",
+    "level": 5,
+    "structure": "不是 + A, 就是 + B (chỉ có hai khả năng A hoặc B)",
+    "explanationVi": "Nêu hai khả năng, chắc chắn là một trong hai. Khác với 不是……而是…… (phủ định A, khẳng định B).",
+    "examples": [
+      { "hanzi": "他周末不是看书，就是运动。", "pinyin": "tā zhōumò búshì kàn shū, jiùshì yùndòng.", "meaningVi": "Cuối tuần anh ấy không đọc sách thì cũng tập thể thao." },
+      { "hanzi": "这件事不是他做的，就是你做的。", "pinyin": "zhè jiàn shì búshì tā zuò de, jiùshì nǐ zuò de.", "meaningVi": "Việc này không phải anh ấy làm thì là bạn làm." }
+    ],
+    "commonMistakes": ["不是……就是…… nêu 2 khả năng; đừng nhầm với 不是……而是…… (đính chính)."]
+  },
+  {
+    "id": "hsk5-gp-009",
+    "title": "一方面……另一方面…… (một mặt… mặt khác…)",
+    "level": 5,
+    "structure": "一方面 + A, 另一方面 + B (hai phương diện song song)",
+    "explanationVi": "Trình bày sự việc từ hai phương diện khác nhau, bổ sung cho nhau.",
+    "examples": [
+      { "hanzi": "学习汉语，一方面要多听，另一方面要多说。", "pinyin": "xuéxí Hànyǔ, yì fāngmiàn yào duō tīng, lìng yì fāngmiàn yào duō shuō.", "meaningVi": "Học tiếng Trung, một mặt phải nghe nhiều, mặt khác phải nói nhiều." },
+      { "hanzi": "这份工作一方面很累，另一方面很有意思。", "pinyin": "zhè fèn gōngzuò yì fāngmiàn hěn lèi, lìng yì fāngmiàn hěn yǒuyìsi.", "meaningVi": "Công việc này một mặt rất mệt, mặt khác rất thú vị." }
+    ],
+    "commonMistakes": ["Hai vế song song, thường nêu hai khía cạnh khác nhau (thậm chí trái ngược) của cùng một việc."]
+  },
+  {
+    "id": "hsk5-gp-010",
+    "title": "随着…… (cùng với…, theo đà…)",
+    "level": 5,
+    "structure": "随着 + sự thay đổi A, B (cũng thay đổi theo)",
+    "explanationVi": "Biểu thị B biến đổi cùng với sự biến đổi của A. 随着 thường đặt đầu câu, dẫn ra điều kiện thay đổi.",
+    "examples": [
+      { "hanzi": "随着时间的变化，他慢慢成熟了。", "pinyin": "suízhe shíjiān de biànhuà, tā mànman chéngshú le.", "meaningVi": "Cùng với thời gian, anh ấy dần trưởng thành." },
+      { "hanzi": "随着经济的发展，人们的生活越来越好。", "pinyin": "suízhe jīngjì de fāzhǎn, rénmen de shēnghuó yuè lái yuè hǎo.", "meaningVi": "Cùng với sự phát triển kinh tế, cuộc sống người dân ngày càng tốt." }
+    ],
+    "commonMistakes": ["随着 dẫn ra sự thay đổi làm điều kiện; vế sau nêu kết quả biến đổi tương ứng."]
+  },
+  {
+    "id": "hsk5-gp-011",
+    "title": "就……来说 (đối với… mà nói)",
+    "level": 5,
+    "structure": "就 + đối tượng/phạm vi + 来说, + nhận định",
+    "explanationVi": "Giới hạn phạm vi bàn luận, nêu nhận định trong phạm vi hoặc từ góc độ đó.",
+    "examples": [
+      { "hanzi": "就这个问题来说，我同意你的看法。", "pinyin": "jiù zhège wèntí láishuō, wǒ tóngyì nǐ de kànfǎ.", "meaningVi": "Về vấn đề này mà nói, tôi đồng ý với quan điểm của bạn." },
+      { "hanzi": "就价格来说，这个更合适。", "pinyin": "jiù jiàgé láishuō, zhège gèng héshì.", "meaningVi": "Xét về giá cả mà nói, cái này phù hợp hơn." }
+    ],
+    "commonMistakes": ["Cấu trúc cố định 就……来说, giới hạn góc độ/phạm vi của nhận định."]
+  },
+  {
+    "id": "hsk5-gp-012",
+    "title": "哪怕……也…… (cho dù… cũng…)",
+    "level": 5,
+    "structure": "哪怕 + giả định (cực đoan), 也 + kết quả không đổi",
+    "explanationVi": "Nêu một giả định nhượng bộ mạnh, kết quả vế sau vẫn không thay đổi. Gần nghĩa với 即使……也…….",
+    "examples": [
+      { "hanzi": "哪怕再难，我也要坚持。", "pinyin": "nǎpà zài nán, wǒ yě yào jiānchí.", "meaningVi": "Cho dù có khó nữa, tôi cũng phải kiên trì." },
+      { "hanzi": "哪怕只有一点希望，我们也不放弃。", "pinyin": "nǎpà zhǐyǒu yìdiǎn xīwàng, wǒmen yě bú fàngqì.", "meaningVi": "Dù chỉ còn chút hy vọng, chúng tôi cũng không từ bỏ." }
+    ],
+    "commonMistakes": ["哪怕 đi với 也/都; nhấn mạnh giả định cực đoan mà kết quả vẫn giữ nguyên."]
+  },
+  {
+    "id": "hsk5-gp-013",
+    "title": "通过……（来）…… (thông qua… (để)…)",
+    "level": 5,
+    "structure": "通过 + phương thức/phương tiện, (来) + mục đích/kết quả",
+    "explanationVi": "Biểu thị dùng một phương thức, con đường nào đó để đạt kết quả. 通过 dẫn ra cách thức.",
+    "examples": [
+      { "hanzi": "通过努力，他实现了自己的理想。", "pinyin": "tōngguò nǔlì, tā shíxiàn le zìjǐ de lǐxiǎng.", "meaningVi": "Thông qua nỗ lực, anh ấy đã thực hiện được ước mơ." },
+      { "hanzi": "我们通过网络来交流。", "pinyin": "wǒmen tōngguò wǎngluò lái jiāoliú.", "meaningVi": "Chúng tôi trao đổi thông qua mạng internet." }
+    ],
+    "commonMistakes": ["通过 dẫn ra phương thức/công cụ, khác với 经过 (trải qua một quá trình/thời gian)."]
+  },
+  {
+    "id": "hsk5-gp-014",
+    "title": "连……都/也……，何况…… (ngay cả… còn…, huống chi…)",
+    "level": 5,
+    "structure": "连 + A + 都/也 + …, 何况 + B (B mạnh hơn A)",
+    "explanationVi": "Dùng 连……都/也 nêu trường hợp cực đoan, rồi 何况 suy ra trường hợp còn hiển nhiên hơn. Tăng cường ngữ khí.",
+    "examples": [
+      { "hanzi": "这么难的问题，连老师都不会，何况学生呢？", "pinyin": "zhème nán de wèntí, lián lǎoshī dōu bú huì, hékuàng xuéshēng ne?", "meaningVi": "Câu khó thế này, ngay cả thầy còn không biết, huống chi học sinh?" },
+      { "hanzi": "他连自己的事都做不好，何况帮别人。", "pinyin": "tā lián zìjǐ de shì dōu zuò bù hǎo, hékuàng bāng biéren.", "meaningVi": "Việc của mình anh ta còn không làm nổi, huống chi giúp người khác." }
+    ],
+    "commonMistakes": ["连……都/也 nêu điều cực đoan làm tiền đề; 何况 suy ra điều hiển nhiên hơn."]
+  },
+  {
+    "id": "hsk5-gp-015",
+    "title": "Bổ ngữ trạng thái/trình độ mở rộng: V/Adj + 得 + bổ ngữ",
+    "level": 5,
+    "structure": "Động từ/tính từ + 得 + bổ ngữ miêu tả (得多/得很/得不得了…)",
+    "explanationVi": "Bổ ngữ sau 得 miêu tả mức độ hoặc trạng thái. HSK5 mở rộng với các dạng nhấn mạnh cao độ như 得多, 得很, 得不得了.",
+    "examples": [
+      { "hanzi": "他今天高兴得不得了。", "pinyin": "tā jīntiān gāoxìng de bùdéliǎo.", "meaningVi": "Hôm nay anh ấy vui khôn xiết." },
+      { "hanzi": "这次比上次好得多。", "pinyin": "zhè cì bǐ shàng cì hǎo de duō.", "meaningVi": "Lần này tốt hơn lần trước rất nhiều." }
+    ],
+    "commonMistakes": ["得多 dùng trong so sánh (A 比 B + Adj + 得多); 得不得了/得很 nhấn mạnh mức độ cực cao."]
+  }
+]

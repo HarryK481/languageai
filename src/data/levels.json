@@ -93,9 +93,28 @@
   {
     "level": 5,
     "name": "HSK 5",
-    "description": "Cao cấp 1 — đọc báo, xem phim, thuyết trình, khoảng 2500 từ.",
+    "description": "Cao cấp 1 — đọc báo, xem phim, thuyết trình, khoảng 2500 từ (lũy kế).",
     "wordCount": 2500,
-    "topics": []
+    "topics": [
+      "xa-hoi",
+      "kinh-te",
+      "khoa-hoc",
+      "van-hoa",
+      "chinh-tri",
+      "moi-truong",
+      "cong-viec",
+      "hoc-tap",
+      "cam-xuc",
+      "tinh-cach",
+      "truu-tuong",
+      "suc-khoe",
+      "thien-nhien",
+      "giao-thong",
+      "gia-dinh",
+      "thoi-gian",
+      "dac-diem",
+      "lien-ket"
+    ]
   },
   {
     "level": 6,

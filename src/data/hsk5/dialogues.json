@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "id": "hsk5-dlg-001",
+    "title": "Phỏng vấn tuyển dụng",
+    "level": 5,
+    "situationVi": "Nhà tuyển dụng và ứng viên trao đổi về năng lực và đãi ngộ.",
+    "lines": [
+      { "speaker": "A", "hanzi": "你觉得自己具备什么优势？", "pinyin": "nǐ juéde zìjǐ jùbèi shénme yōushì?", "meaningVi": "Bạn thấy mình có ưu thế gì?" },
+      { "speaker": "B", "hanzi": "我有丰富的经验，也善于跟人沟通。", "pinyin": "wǒ yǒu fēngfù de jīngyàn, yě shànyú gēn rén gōutōng.", "meaningVi": "Tôi có kinh nghiệm phong phú, cũng giỏi giao tiếp với người khác." },
+      { "speaker": "A", "hanzi": "这个职位的待遇你满意吗？", "pinyin": "zhège zhíwèi de dàiyù nǐ mǎnyì ma?", "meaningVi": "Bạn hài lòng với đãi ngộ vị trí này không?" },
+      { "speaker": "B", "hanzi": "就待遇来说，我觉得很合理。", "pinyin": "jiù dàiyù láishuō, wǒ juéde hěn hélǐ.", "meaningVi": "Về đãi ngộ mà nói, tôi thấy rất hợp lý." }
+    ],
+    "newWords": ["hsk5-439", "hsk5-1022", "hsk5-693", "hsk5-272", "hsk5-137", "hsk5-310"]
+  },
+  {
+    "id": "hsk5-dlg-002",
+    "title": "Bàn về bảo vệ môi trường",
+    "level": 5,
+    "situationVi": "Hai người thảo luận về ô nhiễm và tiết kiệm năng lượng.",
+    "lines": [
+      { "speaker": "A", "hanzi": "现在的空气污染越来越严重了。", "pinyin": "xiànzài de kōngqì wūrǎn yuè lái yuè yánzhòng le.", "meaningVi": "Ô nhiễm không khí bây giờ ngày càng nghiêm trọng." },
+      { "speaker": "B", "hanzi": "是啊，我们应该节省能源，保护环境。", "pinyin": "shì a, wǒmen yīnggāi jiéshěng néngyuán, bǎohù huánjìng.", "meaningVi": "Đúng vậy, chúng ta nên tiết kiệm năng lượng, bảo vệ môi trường." },
+      { "speaker": "A", "hanzi": "随着经济的发展，这个问题更值得重视。", "pinyin": "suízhe jīngjì de fāzhǎn, zhège wèntí gèng zhídé zhòngshì.", "meaningVi": "Cùng với sự phát triển kinh tế, vấn đề này càng đáng coi trọng." },
+      { "speaker": "B", "hanzi": "越是这样，我们越应该努力去做。", "pinyin": "yuè shì zhèyàng, wǒmen yuè yīnggāi nǔlì qù zuò.", "meaningVi": "Càng như vậy, chúng ta càng nên cố gắng làm." }
+    ],
+    "newWords": ["hsk5-411", "hsk5-585"]
+  },
+  {
+    "id": "hsk5-dlg-003",
+    "title": "Nói về một bộ phim",
+    "level": 5,
+    "situationVi": "Trao đổi cảm nhận sau khi xem phim.",
+    "lines": [
+      { "speaker": "A", "hanzi": "这部电影的导演很有名。", "pinyin": "zhè bù diànyǐng de dǎoyǎn hěn yǒumíng.", "meaningVi": "Đạo diễn của bộ phim này rất nổi tiếng." },
+      { "speaker": "B", "hanzi": "主要演员的表演也很生动。", "pinyin": "zhǔyào yǎnyuán de biǎoyǎn yě hěn shēngdòng.", "meaningVi": "Diễn xuất của diễn viên chính cũng rất sinh động." },
+      { "speaker": "A", "hanzi": "在我看来，结局有点让人遗憾。", "pinyin": "zài wǒ kànlái, jiéjú yǒudiǎn ràng rén yíhàn.", "meaningVi": "Theo tôi thấy, cái kết hơi đáng tiếc." },
+      { "speaker": "B", "hanzi": "不过整体来说，还是一部好作品。", "pinyin": "búguò zhěngtǐ láishuō, háishì yí bù hǎo zuòpǐn.", "meaningVi": "Nhưng nhìn tổng thể, vẫn là một tác phẩm hay." }
+    ],
+    "newWords": ["hsk5-148", "hsk5-715", "hsk5-1200", "hsk5-992", "hsk5-1086", "hsk5-1173"]
+  },
+  {
+    "id": "hsk5-dlg-004",
+    "title": "Áp lực công việc",
+    "level": 5,
+    "situationVi": "Đồng nghiệp chia sẻ và khuyên nhau giữ tâm thái tốt.",
+    "lines": [
+      { "speaker": "A", "hanzi": "最近工作压力太大，我常常失眠。", "pinyin": "zuìjìn gōngzuò yālì tài dà, wǒ chángcháng shīmián.", "meaningVi": "Dạo này áp lực công việc lớn quá, tôi thường mất ngủ." },
+      { "speaker": "B", "hanzi": "你要学会调整自己的心态。", "pinyin": "nǐ yào xuéhuì tiáozhěng zìjǐ de xīntài.", "meaningVi": "Bạn phải học cách điều chỉnh tâm thái của mình." },
+      { "speaker": "A", "hanzi": "与其自己发愁，不如找人聊聊。", "pinyin": "yǔqí zìjǐ fāchóu, bùrú zhǎo rén liáoliao.", "meaningVi": "Thay vì tự lo lắng, chẳng bằng tìm người trò chuyện." },
+      { "speaker": "B", "hanzi": "对，适当放松，效率反而更高。", "pinyin": "duì, shìdàng fàngsōng, xiàolǜ fǎn'ér gèng gāo.", "meaningVi": "Đúng, thư giãn hợp lý thì hiệu suất lại cao hơn." }
+    ],
+    "newWords": ["hsk5-721", "hsk5-1294", "hsk5-826", "hsk5-191", "hsk5-934"]
+  },
+  {
+    "id": "hsk5-dlg-005",
+    "title": "Đặt phòng khách sạn",
+    "level": 5,
+    "situationVi": "Khách gọi điện đặt phòng và hỏi dịch vụ.",
+    "lines": [
+      { "speaker": "A", "hanzi": "你好，我想预订一个房间。", "pinyin": "nǐ hǎo, wǒ xiǎng yùdìng yí ge fángjiān.", "meaningVi": "Xin chào, tôi muốn đặt một phòng." },
+      { "speaker": "B", "hanzi": "好的，请问您需要什么日期的？", "pinyin": "hǎo de, qǐngwèn nín xūyào shénme rìqī de?", "meaningVi": "Vâng, xin hỏi anh cần ngày nào ạ?" },
+      { "speaker": "A", "hanzi": "下个月中旬。你们提供早餐吗？", "pinyin": "xià ge yuè zhōngxún. nǐmen tígōng zǎocān ma?", "meaningVi": "Giữa tháng sau. Bên bạn có cung cấp bữa sáng không?" },
+      { "speaker": "B", "hanzi": "提供，而且服务很周到，请放心。", "pinyin": "tígōng, érqiě fúwù hěn zhōudào, qǐng fàngxīn.", "meaningVi": "Có, hơn nữa phục vụ rất chu đáo, xin yên tâm." }
+    ],
+    "newWords": ["hsk5-1033", "hsk5-1274", "hsk5-1107", "hsk5-1227", "hsk5-1113"]
+  },
+  {
+    "id": "hsk5-dlg-006",
+    "title": "Ở ngân hàng",
+    "level": 5,
+    "situationVi": "Khách hàng hỏi về gửi tiền và tỉ giá.",
+    "lines": [
+      { "speaker": "A", "hanzi": "你好，我想办理一张银行卡。", "pinyin": "nǐ hǎo, wǒ xiǎng bànlǐ yì zhāng yínhángkǎ.", "meaningVi": "Xin chào, tôi muốn làm một thẻ ngân hàng." },
+      { "speaker": "B", "hanzi": "好的，请填一下这张表格。", "pinyin": "hǎo de, qǐng tián yíxià zhè zhāng biǎogé.", "meaningVi": "Vâng, xin điền vào mẫu đơn này." },
+      { "speaker": "A", "hanzi": "顺便问一下，今天美元的汇率是多少？", "pinyin": "shùnbiàn wèn yíxià, jīntiān měiyuán de huìlǜ shì duōshao?", "meaningVi": "Tiện thể hỏi, tỉ giá đô la Mỹ hôm nay là bao nhiêu?" },
+      { "speaker": "B", "hanzi": "您可以在那边查询一下。", "pinyin": "nín kěyǐ zài nàbiān cháxún yíxià.", "meaningVi": "Anh có thể tra ở bên kia một chút." }
+    ],
+    "newWords": ["hsk5-011", "hsk5-344"]
+  },
+  {
+    "id": "hsk5-dlg-007",
+    "title": "Bàn về sức khỏe",
+    "level": 5,
+    "situationVi": "Bác sĩ khuyên bệnh nhân về thói quen sinh hoạt.",
+    "lines": [
+      { "speaker": "A", "hanzi": "大夫，我最近总是感觉很疲劳。", "pinyin": "dàifu, wǒ zuìjìn zǒngshì gǎnjué hěn píláo.", "meaningVi": "Bác sĩ, dạo này tôi luôn cảm thấy mệt mỏi." },
+      { "speaker": "B", "hanzi": "你平时熬夜吗？营养跟得上吗？", "pinyin": "nǐ píngshí áoyè ma? yíngyǎng gēn de shàng ma?", "meaningVi": "Bình thường anh có thức khuya không? Dinh dưỡng có đủ không?" },
+      { "speaker": "A", "hanzi": "经常熬夜，吃饭也不太规律。", "pinyin": "jīngcháng áoyè, chī fàn yě bú tài guīlǜ.", "meaningVi": "Tôi thường thức khuya, ăn uống cũng không điều độ." },
+      { "speaker": "B", "hanzi": "哪怕再忙，也要保证充分的休息。", "pinyin": "nǎpà zài máng, yě yào bǎozhèng chōngfèn de xiūxi.", "meaningVi": "Dù có bận nữa, cũng phải đảm bảo nghỉ ngơi đầy đủ." }
+    ],
+    "newWords": ["hsk5-594", "hsk5-008", "hsk5-1010", "hsk5-297", "hsk5-094"]
+  },
+  {
+    "id": "hsk5-dlg-008",
+    "title": "Học ngoại ngữ",
+    "level": 5,
+    "situationVi": "Hai bạn trao đổi kinh nghiệm học tiếng Trung.",
+    "lines": [
+      { "speaker": "A", "hanzi": "你的汉语进步得真快，有什么心得？", "pinyin": "nǐ de Hànyǔ jìnbù de zhēn kuài, yǒu shénme xīndé?", "meaningVi": "Tiếng Trung của bạn tiến bộ nhanh thật, có kinh nghiệm gì không?" },
+      { "speaker": "B", "hanzi": "一方面多积累词汇，另一方面多练习口语。", "pinyin": "yì fāngmiàn duō jīlěi cíhuì, lìng yì fāngmiàn duō liànxí kǒuyǔ.", "meaningVi": "Một mặt tích lũy nhiều từ vựng, mặt khác luyện nói nhiều." },
+      { "speaker": "A", "hanzi": "掌握声调是不是也很重要？", "pinyin": "zhǎngwò shēngdiào shì bu shì yě hěn zhòngyào?", "meaningVi": "Nắm vững thanh điệu có phải cũng rất quan trọng không?" },
+      { "speaker": "B", "hanzi": "当然，发音标准别人才容易听懂。", "pinyin": "dāngrán, fāyīn biāozhǔn biéren cái róngyì tīngdǒng.", "meaningVi": "Tất nhiên, phát âm chuẩn thì người khác mới dễ nghe hiểu." }
+    ],
+    "newWords": ["hsk5-1293", "hsk5-111", "hsk5-1066", "hsk5-717"]
+  },
+  {
+    "id": "hsk5-dlg-009",
+    "title": "Đàm phán kinh doanh",
+    "level": 5,
+    "situationVi": "Hai công ty trao đổi về hợp tác và giá thành.",
+    "lines": [
+      { "speaker": "A", "hanzi": "我们希望能跟贵公司长期合作。", "pinyin": "wǒmen xīwàng néng gēn guì gōngsī chángqī hézuò.", "meaningVi": "Chúng tôi mong được hợp tác lâu dài với quý công ty." },
+      { "speaker": "B", "hanzi": "可以，不过我们要先谈谈成本和利润。", "pinyin": "kěyǐ, búguò wǒmen yào xiān tántan chéngběn hé lìrùn.", "meaningVi": "Được, nhưng chúng ta phải bàn về giá thành và lợi nhuận trước." },
+      { "speaker": "A", "hanzi": "只要价格合理，我们完全可以接受。", "pinyin": "zhǐyào jiàgé hélǐ, wǒmen wánquán kěyǐ jiēshòu.", "meaningVi": "Chỉ cần giá hợp lý, chúng tôi hoàn toàn có thể chấp nhận." },
+      { "speaker": "B", "hanzi": "好，那我们签一份正式的合同吧。", "pinyin": "hǎo, nà wǒmen qiān yí fèn zhèngshì de hétong ba.", "meaningVi": "Tốt, vậy chúng ta ký một hợp đồng chính thức nhé." }
+    ],
+    "newWords": ["hsk5-1181", "hsk5-313", "hsk5-1212", "hsk5-501", "hsk5-311"]
+  },
+  {
+    "id": "hsk5-dlg-010",
+    "title": "Bàn về tin tức xã hội",
+    "level": 5,
+    "situationVi": "Hai người bình luận về một sự việc trên truyền thông.",
+    "lines": [
+      { "speaker": "A", "hanzi": "最近媒体报道的那件事，你怎么看？", "pinyin": "zuìjìn méitǐ bàodào de nà jiàn shì, nǐ zěnme kàn?", "meaningVi": "Việc mà truyền thông đưa tin gần đây, bạn nghĩ sao?" },
+      { "speaker": "B", "hanzi": "我觉得我们应该客观地分析，别太主观。", "pinyin": "wǒ juéde wǒmen yīnggāi kèguān de fēnxī, bié tài zhǔguān.", "meaningVi": "Tôi nghĩ chúng ta nên phân tích khách quan, đừng quá chủ quan." },
+      { "speaker": "A", "hanzi": "确实，网络上的信息不一定都真实。", "pinyin": "quèshí, wǎngluò shàng de xìnxī bù yídìng dōu zhēnshí.", "meaningVi": "Đúng vậy, thông tin trên mạng không chắc đều chân thực." },
+      { "speaker": "B", "hanzi": "所以我们要有自己的判断。", "pinyin": "suǒyǐ wǒmen yào yǒu zìjǐ de pànduàn.", "meaningVi": "Vì vậy chúng ta phải có phán đoán của riêng mình." }
+    ],
+    "newWords": ["hsk5-541", "hsk5-1176", "hsk5-467", "hsk5-217", "hsk5-1120", "hsk5-1287", "hsk5-1076"]
+  }
+]

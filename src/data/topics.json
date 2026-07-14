@@ -21,5 +21,10 @@
   { "code": "thien-nhien", "name": "Thiên nhiên & động vật" },
   { "code": "xa-hoi", "name": "Xã hội & cuộc sống" },
   { "code": "tinh-cach", "name": "Tính cách & phẩm chất" },
-  { "code": "truu-tuong", "name": "Khái niệm trừu tượng" }
+  { "code": "truu-tuong", "name": "Khái niệm trừu tượng" },
+  { "code": "kinh-te", "name": "Kinh tế & thương mại" },
+  { "code": "khoa-hoc", "name": "Khoa học & công nghệ" },
+  { "code": "van-hoa", "name": "Văn hóa & nghệ thuật" },
+  { "code": "chinh-tri", "name": "Chính trị & pháp luật" },
+  { "code": "moi-truong", "name": "Môi trường & tự nhiên" }
 ]
