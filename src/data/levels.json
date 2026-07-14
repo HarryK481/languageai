@@ -119,8 +119,27 @@
   {
     "level": 6,
     "name": "HSK 6",
-    "description": "Cao cấp 2 — hiểu và diễn đạt trôi chảy, khoảng 5000 từ.",
+    "description": "Cao cấp 2 — hiểu và diễn đạt trôi chảy, khoảng 5000 từ (lũy kế).",
     "wordCount": 5000,
-    "topics": []
+    "topics": [
+      "xa-hoi",
+      "kinh-te",
+      "khoa-hoc",
+      "van-hoa",
+      "chinh-tri",
+      "moi-truong",
+      "cong-viec",
+      "hoc-tap",
+      "cam-xuc",
+      "tinh-cach",
+      "truu-tuong",
+      "suc-khoe",
+      "thien-nhien",
+      "giao-thong",
+      "gia-dinh",
+      "thoi-gian",
+      "dac-diem",
+      "lien-ket"
+    ]
   }
 ]
