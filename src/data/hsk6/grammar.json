@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "id": "hsk6-gp-001",
+    "title": "即便……也…… (cho dù… thì vẫn…)",
+    "level": 6,
+    "structure": "即便 + A, 也 + B (dù giả thiết A xảy ra, kết quả B vẫn không đổi)",
+    "explanationVi": "Biểu thị giả thiết nhượng bộ, mạnh hơn 即使. Dù điều kiện A cực đoan thế nào, kết luận B vẫn giữ nguyên.",
+    "examples": [
+      { "hanzi": "即便再困难，我们也不会放弃。", "pinyin": "jíbiàn zài kùnnan, wǒmen yě bú huì fàngqì.", "meaningVi": "Cho dù khó khăn đến mấy, chúng ta cũng không bỏ cuộc." },
+      { "hanzi": "即便你不同意，事情也已经决定了。", "pinyin": "jíbiàn nǐ bù tóngyì, shìqing yě yǐjīng juédìng le.", "meaningVi": "Cho dù bạn không đồng ý, việc cũng đã được quyết định rồi." }
+    ],
+    "commonMistakes": ["即便 thiên về văn viết, tương đương 即使/就算; vế sau bắt buộc có 也."]
+  },
+  {
+    "id": "hsk6-gp-002",
+    "title": "与其说……不如说…… (nói là… chi bằng nói là…)",
+    "level": 6,
+    "structure": "与其说 + A, 不如说 + B (B chính xác hơn A)",
+    "explanationVi": "Dùng khi so sánh hai cách diễn đạt, cho rằng cách sau (B) đúng bản chất hơn cách trước (A).",
+    "examples": [
+      { "hanzi": "与其说他是老师，不如说他是朋友。", "pinyin": "yǔqí shuō tā shì lǎoshī, bùrú shuō tā shì péngyou.", "meaningVi": "Nói anh ấy là thầy giáo, chi bằng nói anh ấy là bạn." },
+      { "hanzi": "这与其说是运气，不如说是努力的结果。", "pinyin": "zhè yǔqí shuō shì yùnqi, bùrú shuō shì nǔlì de jiéguǒ.", "meaningVi": "Điều này nói là may mắn, chi bằng nói là kết quả của nỗ lực." }
+    ],
+    "commonMistakes": ["Vế B mới là ý người nói muốn nhấn mạnh, không phải vế A."]
+  },
+  {
+    "id": "hsk6-gp-003",
+    "title": "宁愿……也不…… (thà… chứ không…)",
+    "level": 6,
+    "structure": "宁愿 + A, 也不 + B (dứt khoát chọn A, từ bỏ B)",
+    "explanationVi": "Thể hiện sự lựa chọn kiên quyết dựa trên nguyên tắc hoặc thái độ, gần nghĩa 宁可.",
+    "examples": [
+      { "hanzi": "他宁愿自己受苦，也不愿麻烦别人。", "pinyin": "tā nìngyuàn zìjǐ shòukǔ, yě bú yuàn máfan biéren.", "meaningVi": "Anh ấy thà chịu khổ chứ không muốn làm phiền người khác." },
+      { "hanzi": "我宁愿失败，也不愿意作弊。", "pinyin": "wǒ nìngyuàn shībài, yě bú yuànyì zuòbì.", "meaningVi": "Tôi thà thất bại chứ không chịu gian lận." }
+    ],
+    "commonMistakes": ["Vế sau thường dùng 也不 hoặc 决不, nhấn mạnh sự từ chối dứt khoát."]
+  },
+  {
+    "id": "hsk6-gp-004",
+    "title": "……尚且……，何况…… (… còn…, huống chi…)",
+    "level": 6,
+    "structure": "A 尚且 X, 何况 B (A còn thế, B càng như vậy)",
+    "explanationVi": "Dùng phép tăng tiến: nêu trường hợp A (dễ hơn) còn đúng, để suy ra B (khó hơn) tất nhiên đúng.",
+    "examples": [
+      { "hanzi": "大人尚且做不到，何况孩子呢？", "pinyin": "dàren shàngqiě zuò bú dào, hékuàng háizi ne?", "meaningVi": "Người lớn còn không làm được, huống chi trẻ con?" },
+      { "hanzi": "这件事连专家尚且不懂，何况我们。", "pinyin": "zhè jiàn shì lián zhuānjiā shàngqiě bù dǒng, hékuàng wǒmen.", "meaningVi": "Việc này ngay cả chuyên gia còn không hiểu, huống chi chúng ta." }
+    ],
+    "commonMistakes": ["尚且 đứng sau chủ ngữ vế trước; vế sau dùng 何况 để nâng mức độ."]
+  },
+  {
+    "id": "hsk6-gp-005",
+    "title": "……，以便…… (…, để tiện cho việc…)",
+    "level": 6,
+    "structure": "Vế 1, 以便 + mục đích (làm vế 1 để mục đích dễ đạt được)",
+    "explanationVi": "Nêu mục đích: thực hiện hành động vế trước nhằm tạo điều kiện thuận lợi cho việc phía sau.",
+    "examples": [
+      { "hanzi": "请留下电话，以便我们联系你。", "pinyin": "qǐng liúxià diànhuà, yǐbiàn wǒmen liánxì nǐ.", "meaningVi": "Xin để lại số điện thoại để tiện chúng tôi liên hệ với bạn." },
+      { "hanzi": "他早早出发，以便按时到达。", "pinyin": "tā zǎozǎo chūfā, yǐbiàn ànshí dàodá.", "meaningVi": "Anh ấy xuất phát sớm để đến đúng giờ." }
+    ],
+    "commonMistakes": ["以便 dẫn ra mục đích tích cực; khác với 以免 (để tránh điều tiêu cực)."]
+  },
+  {
+    "id": "hsk6-gp-006",
+    "title": "……，以免…… (…, để tránh…)",
+    "level": 6,
+    "structure": "Vế 1, 以免 + điều không mong muốn (làm vế 1 để tránh điều sau)",
+    "explanationVi": "Nêu hành động phòng ngừa để ngăn kết quả xấu phía sau xảy ra.",
+    "examples": [
+      { "hanzi": "多穿点衣服，以免感冒。", "pinyin": "duō chuān diǎn yīfu, yǐmiǎn gǎnmào.", "meaningVi": "Mặc thêm quần áo để tránh bị cảm." },
+      { "hanzi": "请提前准备，以免出错。", "pinyin": "qǐng tíqián zhǔnbèi, yǐmiǎn chūcuò.", "meaningVi": "Xin chuẩn bị trước để tránh sai sót." }
+    ],
+    "commonMistakes": ["Vế sau 以免 là điều tiêu cực cần tránh, không thêm 不."]
+  },
+  {
+    "id": "hsk6-gp-007",
+    "title": "倘若……就…… (nếu như… thì…)",
+    "level": 6,
+    "structure": "倘若 + giả thiết, 就 + kết quả",
+    "explanationVi": "Liên từ giả thiết mang sắc thái văn viết, tương đương 如果/要是.",
+    "examples": [
+      { "hanzi": "倘若明天下雨，我们就改期。", "pinyin": "tǎngruò míngtiān xiàyǔ, wǒmen jiù gǎiqī.", "meaningVi": "Nếu ngày mai mưa thì chúng ta đổi ngày." },
+      { "hanzi": "倘若有困难，就及时告诉我。", "pinyin": "tǎngruò yǒu kùnnan, jiù jíshí gàosu wǒ.", "meaningVi": "Nếu có khó khăn thì kịp thời báo tôi." }
+    ],
+    "commonMistakes": ["倒若 trang trọng hơn 如果; thường đi với 就/便 ở vế sau."]
+  },
+  {
+    "id": "hsk6-gp-008",
+    "title": "未免太……了 (thật là quá…)",
+    "level": 6,
+    "structure": "未免 + 太 + tính chất + 了 (đánh giá điều gì đó quá mức)",
+    "explanationVi": "Biểu thị nhận xét uyển chuyển rằng sự việc vượt quá mức hợp lý, mang ý phê phán nhẹ.",
+    "examples": [
+      { "hanzi": "你这样说未免太过分了。", "pinyin": "nǐ zhèyàng shuō wèimiǎn tài guòfèn le.", "meaningVi": "Bạn nói thế thì thật là quá đáng." },
+      { "hanzi": "一天工作十二小时，未免太辛苦了。", "pinyin": "yì tiān gōngzuò shí'èr xiǎoshí, wèimiǎn tài xīnkǔ le.", "meaningVi": "Một ngày làm việc mười hai tiếng thì quả là quá vất vả." }
+    ],
+    "commonMistakes": ["未免 mang ý chê nhẹ, thường kết hợp 太……了; không dùng khen ngợi."]
+  },
+  {
+    "id": "hsk6-gp-009",
+    "title": "……势必…… (… tất yếu sẽ…)",
+    "level": 6,
+    "structure": "Nguyên nhân, 势必 + kết quả tất yếu",
+    "explanationVi": "Khẳng định một kết quả chắc chắn xảy ra do quy luật khách quan, mang sắc thái văn viết.",
+    "examples": [
+      { "hanzi": "不重视质量，势必失去客户。", "pinyin": "bú zhòngshì zhìliàng, shìbì shīqù kèhù.", "meaningVi": "Không coi trọng chất lượng, tất yếu sẽ mất khách hàng." },
+      { "hanzi": "经济发展，势必带来新的问题。", "pinyin": "jīngjì fāzhǎn, shìbì dàilái xīn de wèntí.", "meaningVi": "Kinh tế phát triển tất yếu kéo theo vấn đề mới." }
+    ],
+    "commonMistakes": ["势必 nhấn mạnh tính tất yếu khách quan, mạnh hơn 一定/必然 trong văn viết."]
+  },
+  {
+    "id": "hsk6-gp-010",
+    "title": "一味(地)…… (một mực…, cứ khăng khăng…)",
+    "level": 6,
+    "structure": "一味(地) + hành động (làm mãi một cách phiến diện)",
+    "explanationVi": "Chỉ hành động lặp lại một chiều, thiếu suy xét, thường mang ý phê phán.",
+    "examples": [
+      { "hanzi": "一味地责怪别人是没有用的。", "pinyin": "yíwèi de zéguài biéren shì méiyǒu yòng de.", "meaningVi": "Cứ một mực trách móc người khác thì vô ích." },
+      { "hanzi": "他一味追求利益，忽略了健康。", "pinyin": "tā yíwèi zhuīqiú lìyì, hūlüè le jiànkāng.", "meaningVi": "Anh ta chỉ một mực theo đuổi lợi ích, xem nhẹ sức khỏe." }
+    ],
+    "commonMistakes": ["一味 mang nghĩa tiêu cực 'phiến diện, mù quáng', khác 一直 trung tính."]
+  },
+  {
+    "id": "hsk6-gp-011",
+    "title": "何尝…… (đâu có…, nào phải là…)",
+    "level": 6,
+    "structure": "何尝 + 不/没 + động từ (dùng phản vấn để khẳng định)",
+    "explanationVi": "Câu phản vấn: 何尝不 = thực ra là có; dùng để nhấn mạnh sự khẳng định một cách uyển chuyển.",
+    "examples": [
+      { "hanzi": "我何尝不想帮你，只是没有办法。", "pinyin": "wǒ hécháng bù xiǎng bāng nǐ, zhǐshì méiyǒu bànfǎ.", "meaningVi": "Tôi nào phải không muốn giúp bạn, chỉ là không có cách." },
+      { "hanzi": "他何尝不知道这样做的后果？", "pinyin": "tā hécháng bù zhīdào zhèyàng zuò de hòuguǒ?", "meaningVi": "Anh ấy đâu phải không biết hậu quả của việc làm này?" }
+    ],
+    "commonMistakes": ["何尝不 thực chất mang nghĩa khẳng định (là có/là biết), không phải phủ định."]
+  },
+  {
+    "id": "hsk6-gp-012",
+    "title": "无非(是)…… (chẳng qua là…, chỉ là…)",
+    "level": 6,
+    "structure": "无非(是) + nội dung (giới hạn phạm vi, cho là không có gì hơn)",
+    "explanationVi": "Biểu thị 'chỉ là, không ngoài', hạ thấp mức độ quan trọng của điều được nói tới.",
+    "examples": [
+      { "hanzi": "他说这些话，无非是想引起注意。", "pinyin": "tā shuō zhèxiē huà, wúfēi shì xiǎng yǐnqǐ zhùyì.", "meaningVi": "Anh ta nói những lời này chẳng qua là muốn gây chú ý." },
+      { "hanzi": "他的要求无非是希望得到尊重。", "pinyin": "tā de yāoqiú wúfēi shì xīwàng dédào zūnzhòng.", "meaningVi": "Yêu cầu của anh ấy chẳng qua là mong được tôn trọng." }
+    ],
+    "commonMistakes": ["无非 = 只不过, thường đi với 是, hàm ý coi nhẹ."]
+  },
+  {
+    "id": "hsk6-gp-013",
+    "title": "不至于…… (chẳng đến nỗi…)",
+    "level": 6,
+    "structure": "不至于 + kết quả xấu (phủ nhận khả năng đi tới mức độ đó)",
+    "explanationVi": "Biểu thị sự việc chưa/không tới mức nghiêm trọng như người ta lo ngại.",
+    "examples": [
+      { "hanzi": "只是小问题，不至于影响大局。", "pinyin": "zhǐshì xiǎo wèntí, búzhìyú yǐngxiǎng dàjú.", "meaningVi": "Chỉ là vấn đề nhỏ, chẳng đến nỗi ảnh hưởng đại cục." },
+      { "hanzi": "他再生气，也不至于打人。", "pinyin": "tā zài shēngqì, yě búzhìyú dǎ rén.", "meaningVi": "Anh ấy có giận đến mấy cũng chẳng đến mức đánh người." }
+    ],
+    "commonMistakes": ["不至于 dùng phủ nhận mức độ cực đoan, sau nó là điều xấu bị loại trừ."]
+  },
+  {
+    "id": "hsk6-gp-014",
+    "title": "凭借…… (dựa vào…, nhờ vào…)",
+    "level": 6,
+    "structure": "凭借 + điều kiện/phương tiện, + kết quả",
+    "explanationVi": "Giới từ chỉ chỗ dựa để đạt được điều gì, trang trọng hơn 靠/凭.",
+    "examples": [
+      { "hanzi": "他凭借自己的努力取得了成功。", "pinyin": "tā píngjiè zìjǐ de nǔlì qǔdé le chénggōng.", "meaningVi": "Anh ấy nhờ vào nỗ lực của mình mà đạt thành công." },
+      { "hanzi": "凭借丰富的经验，他解决了难题。", "pinyin": "píngjiè fēngfù de jīngyàn, tā jiějué le nántí.", "meaningVi": "Dựa vào kinh nghiệm phong phú, anh ấy giải quyết được bài toán khó." }
+    ],
+    "commonMistakes": ["凭借 mang tân ngữ là điều kiện tích cực (năng lực, kinh nghiệm...)."]
+  },
+  {
+    "id": "hsk6-gp-015",
+    "title": "时而……时而…… (lúc thì… lúc thì…)",
+    "level": 6,
+    "structure": "时而 + A, 时而 + B (hai trạng thái luân phiên xuất hiện)",
+    "explanationVi": "Miêu tả sự thay đổi qua lại giữa hai tình trạng, hành động không ổn định.",
+    "examples": [
+      { "hanzi": "天气时而晴，时而阴。", "pinyin": "tiānqì shí'ér qíng, shí'ér yīn.", "meaningVi": "Thời tiết lúc thì nắng, lúc thì âm u." },
+      { "hanzi": "他的情绪时而高兴，时而低落。", "pinyin": "tā de qíngxù shí'ér gāoxìng, shí'ér dīluò.", "meaningVi": "Cảm xúc của anh ấy lúc thì vui, lúc thì buồn bã." }
+    ],
+    "commonMistakes": ["时而 dùng cặp, biểu thị luân phiên; khác 有时 chỉ 'đôi khi' rời rạc."]
+  }
+]

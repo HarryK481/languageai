@@ -31,7 +31,8 @@ npm run gen-audio    # sinh mp3 vào public/audio/ + cập nhật src/data/audio
 | HSK 3 | 300 từ + ví dụ + ngữ pháp + hội thoại |
 | HSK 4 | 600 từ + ví dụ + ngữ pháp + hội thoại |
 | HSK 5 | 1300 từ + ví dụ + ngữ pháp + hội thoại |
-| Tổng | ~5247 file mp3 (~53.5 MB), 0 file rỗng |
+| HSK 6 | 2500 từ + ví dụ + ngữ pháp + hội thoại |
+| Tổng | ~10.000+ file mp3, 0 file rỗng (đủ 6 cấp HSK 2.0) |
 
 > Script `gen-audio` phủ **từ vựng + câu ví dụ + câu ngữ pháp + lượt hội thoại** của mọi cấp có dữ liệu.
 

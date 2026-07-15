@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "id": "hsk6-dlg-001",
+    "title": "Bàn về khủng hoảng kinh tế",
+    "level": 6,
+    "situationVi": "Hai đồng nghiệp trao đổi về suy thoái và cách ứng phó của công ty.",
+    "lines": [
+      { "speaker": "A", "hanzi": "最近经济衰退，公司面临不小的危机。", "pinyin": "zuìjìn jīngjì shuāituì, gōngsī miànlín bù xiǎo de wēijī.", "meaningVi": "Gần đây kinh tế suy thoái, công ty đối mặt khủng hoảng không nhỏ." },
+      { "speaker": "B", "hanzi": "是啊，我们必须统筹安排，控制成本。", "pinyin": "shì a, wǒmen bìxū tǒngchóu ānpái, kòngzhì chéngběn.", "meaningVi": "Đúng vậy, chúng ta phải sắp xếp tổng thể, kiểm soát chi phí." },
+      { "speaker": "A", "hanzi": "与其一味削减开支，不如提高效益。", "pinyin": "yǔqí yíwèi xuējiǎn kāizhī, bùrú tígāo xiàoyì.", "meaningVi": "Cứ một mực cắt giảm chi tiêu, chi bằng nâng cao hiệu quả." },
+      { "speaker": "B", "hanzi": "你说得对，我们要展望长远，稳重应对。", "pinyin": "nǐ shuō de duì, wǒmen yào zhǎnwàng chángyuǎn, wěnzhòng yìngduì.", "meaningVi": "Bạn nói đúng, chúng ta phải nhìn xa, ứng phó vững vàng." }
+    ],
+    "newWords": ["hsk6-1352", "hsk6-1475", "hsk6-2442", "hsk6-1548", "hsk6-1723", "hsk6-2455"]
+  },
+  {
+    "id": "hsk6-dlg-002",
+    "title": "Trí tuệ nhân tạo và tương lai",
+    "level": 6,
+    "situationVi": "Hai người thảo luận về ảnh hưởng của công nghệ thông minh.",
+    "lines": [
+      { "speaker": "A", "hanzi": "现在的智能软件越来越先进了。", "pinyin": "xiànzài de zhìnéng ruǎnjiàn yuè lái yuè xiānjìn le.", "meaningVi": "Phần mềm thông minh bây giờ ngày càng tiên tiến." },
+      { "speaker": "B", "hanzi": "即便技术再发达，也不至于取代人类。", "pinyin": "jíbiàn jìshù zài fādá, yě búzhìyú qǔdài rénlèi.", "meaningVi": "Cho dù công nghệ phát triển đến đâu, cũng chẳng đến nỗi thay thế con người." },
+      { "speaker": "A", "hanzi": "我们应该凭借它来提高效率。", "pinyin": "wǒmen yīnggāi píngjiè tā lái tígāo xiàolǜ.", "meaningVi": "Chúng ta nên dựa vào nó để nâng cao hiệu suất." },
+      { "speaker": "B", "hanzi": "对，关键是扬长避短，合理利用。", "pinyin": "duì, guānjiàn shì yángchángbìduǎn, hélǐ lìyòng.", "meaningVi": "Đúng, mấu chốt là phát huy ưu điểm, sử dụng hợp lý." }
+    ],
+    "newWords": ["hsk6-1785", "hsk6-1235", "hsk6-1515", "hsk6-2073"]
+  },
+  {
+    "id": "hsk6-dlg-003",
+    "title": "Chuyện lập nghiệp",
+    "level": 6,
+    "situationVi": "Một người trẻ chia sẻ với bạn về quyết định khởi nghiệp.",
+    "lines": [
+      { "speaker": "A", "hanzi": "我打算辞职去经商，创立自己的事业。", "pinyin": "wǒ dǎsuàn cízhí qù jīngshāng, chuànglì zìjǐ de shìyè.", "meaningVi": "Tôi định nghỉ việc đi kinh doanh, gây dựng sự nghiệp riêng." },
+      { "speaker": "B", "hanzi": "创业风险很大，你要慎重考虑。", "pinyin": "chuàngyè fēngxiǎn hěn dà, nǐ yào shènzhòng kǎolǜ.", "meaningVi": "Khởi nghiệp rủi ro rất lớn, bạn phải cân nhắc thận trọng." },
+      { "speaker": "A", "hanzi": "我宁愿尝试失败，也不愿留下遗憾。", "pinyin": "wǒ nìngyuàn chángshì shībài, yě bú yuàn liúxià yíhàn.", "meaningVi": "Tôi thà thử rồi thất bại chứ không muốn để lại tiếc nuối." },
+      { "speaker": "B", "hanzi": "既然你决心已定，我全力支持你。", "pinyin": "jìrán nǐ juéxīn yǐ dìng, wǒ quánlì zhīchí nǐ.", "meaningVi": "Đã quyết tâm vậy thì tôi hết lòng ủng hộ bạn." }
+    ],
+    "newWords": ["hsk6-2311", "hsk6-1321", "hsk6-1278"]
+  },
+  {
+    "id": "hsk6-dlg-004",
+    "title": "Mâu thuẫn nơi làm việc",
+    "level": 6,
+    "situationVi": "Hai đồng nghiệp hòa giải sau một hiểu lầm.",
+    "lines": [
+      { "speaker": "A", "hanzi": "上次的事是我误解了你，向你道歉。", "pinyin": "shàng cì de shì shì wǒ wùjiě le nǐ, xiàng nǐ dàoqiàn.", "meaningVi": "Chuyện lần trước là tôi hiểu lầm bạn, xin lỗi bạn." },
+      { "speaker": "B", "hanzi": "没关系，我也应该多体谅你的难处。", "pinyin": "méi guānxi, wǒ yě yīnggāi duō tǐliàng nǐ de nánchù.", "meaningVi": "Không sao, tôi cũng nên thông cảm hơn cho khó khăn của bạn." },
+      { "speaker": "A", "hanzi": "以后有意见我们直截了当地说。", "pinyin": "yǐhòu yǒu yìjiàn wǒmen zhíjiéliǎodàng de shuō.", "meaningVi": "Sau này có ý kiến chúng ta nói thẳng thắn." },
+      { "speaker": "B", "hanzi": "好，这样关系才能更融洽。", "pinyin": "hǎo, zhèyàng guānxì cáinéng gèng róngqià.", "meaningVi": "Được, như vậy quan hệ mới hòa hợp hơn." }
+    ],
+    "newWords": ["hsk6-2464", "hsk6-1410", "hsk6-2103", "hsk6-1224"]
+  },
+  {
+    "id": "hsk6-dlg-005",
+    "title": "Bảo vệ môi trường sinh thái",
+    "level": 6,
+    "situationVi": "Hai người bàn về ô nhiễm và trách nhiệm cộng đồng.",
+    "lines": [
+      { "speaker": "A", "hanzi": "城市的雾霾越来越严重，真让人担心。", "pinyin": "chéngshì de wùmái yuè lái yuè yánzhòng, zhēn ràng rén dānxīn.", "meaningVi": "Khói bụi thành phố ngày càng nghiêm trọng, thật đáng lo." },
+      { "speaker": "B", "hanzi": "如果不遏制污染，势必危害子孙后代。", "pinyin": "rúguǒ bú èzhì wūrǎn, shìbì wēihài zǐsūn hòudài.", "meaningVi": "Nếu không kìm chế ô nhiễm, tất yếu sẽ hại con cháu đời sau." },
+      { "speaker": "A", "hanzi": "保护生态是每个群众的责任。", "pinyin": "bǎohù shēngtài shì měi ge qúnzhòng de zérèn.", "meaningVi": "Bảo vệ sinh thái là trách nhiệm của mỗi người dân." },
+      { "speaker": "B", "hanzi": "我们要从自身做起，绝不能松懈。", "pinyin": "wǒmen yào cóng zìshēn zuò qǐ, jué bùnéng sōngxiè.", "meaningVi": "Chúng ta phải bắt đầu từ bản thân, tuyệt đối không lơ là." }
+    ],
+    "newWords": ["hsk6-2465", "hsk6-2232", "hsk6-1283", "hsk6-2403", "hsk6-2435"]
+  },
+  {
+    "id": "hsk6-dlg-006",
+    "title": "Đánh giá một cuốn sách",
+    "level": 6,
+    "situationVi": "Hai người bạn trao đổi cảm nhận về một tác phẩm văn học.",
+    "lines": [
+      { "speaker": "A", "hanzi": "这本小说人物刻画得栩栩如生。", "pinyin": "zhè běn xiǎoshuō rénwù kèhuà de xǔxǔrúshēng.", "meaningVi": "Cuốn tiểu thuyết này khắc họa nhân vật sống động như thật." },
+      { "speaker": "B", "hanzi": "是的，情节别出心裁，让我爱不释手。", "pinyin": "shì de, qíngjié biéchūxīncái, ràng wǒ àibùshìshǒu.", "meaningVi": "Đúng vậy, tình tiết độc đáo sáng tạo, khiến tôi mê không rời tay." },
+      { "speaker": "A", "hanzi": "与其说是小说，不如说是一部人生哲理。", "pinyin": "yǔqí shuō shì xiǎoshuō, bùrú shuō shì yí bù rénshēng zhélǐ.", "meaningVi": "Nói là tiểu thuyết, chi bằng nói là một triết lý nhân sinh." },
+      { "speaker": "B", "hanzi": "读完之后，我恍然大悟，收获很大。", "pinyin": "dú wán zhīhòu, wǒ huǎngrándàwù, shōuhuò hěn dà.", "meaningVi": "Đọc xong tôi chợt vỡ lẽ, thu hoạch rất nhiều." }
+    ],
+    "newWords": ["hsk6-2319", "hsk6-2065", "hsk6-2484", "hsk6-1871", "hsk6-1884"]
+  },
+  {
+    "id": "hsk6-dlg-007",
+    "title": "Thị trường và cạnh tranh",
+    "level": 6,
+    "situationVi": "Hai nhà đầu tư bàn về độc quyền và cạnh tranh lành mạnh.",
+    "lines": [
+      { "speaker": "A", "hanzi": "这家企业几乎垄断了整个市场。", "pinyin": "zhè jiā qǐyè jīhū lǒngduàn le zhěnggè shìchǎng.", "meaningVi": "Doanh nghiệp này gần như độc quyền cả thị trường." },
+      { "speaker": "B", "hanzi": "垄断未免太不利于公平竞争了。", "pinyin": "lǒngduàn wèimiǎn tài búlìyú gōngpíng jìngzhēng le.", "meaningVi": "Độc quyền thì thật là quá bất lợi cho cạnh tranh công bằng." },
+      { "speaker": "A", "hanzi": "政府应该出台政策加以制约。", "pinyin": "zhèngfǔ yīnggāi chūtái zhèngcè jiāyǐ zhìyuē.", "meaningVi": "Chính phủ nên ban hành chính sách để chế ước." },
+      { "speaker": "B", "hanzi": "只有这样，中小企业才有生存空间。", "pinyin": "zhǐyǒu zhèyàng, zhōngxiǎo qǐyè cái yǒu shēngcún kōngjiān.", "meaningVi": "Chỉ có vậy, doanh nghiệp vừa và nhỏ mới có không gian tồn tại." }
+    ],
+    "newWords": ["hsk6-2347", "hsk6-1489", "hsk6-1779", "hsk6-1279"]
+  },
+  {
+    "id": "hsk6-dlg-008",
+    "title": "Giáo dục con cái",
+    "level": 6,
+    "situationVi": "Hai phụ huynh trao đổi về cách dạy con.",
+    "lines": [
+      { "speaker": "A", "hanzi": "现在的孩子太娇惯，一点苦都吃不了。", "pinyin": "xiànzài de háizi tài jiāoguàn, yìdiǎn kǔ dōu chī bù liǎo.", "meaningVi": "Trẻ con bây giờ quá được nuông chiều, chút khổ cũng không chịu được." },
+      { "speaker": "B", "hanzi": "溺爱只会害了他们，父母要以身作则。", "pinyin": "nì'ài zhǐ huì hài le tāmen, fùmǔ yào yǐshēnzuòzé.", "meaningVi": "Nuông chiều chỉ hại chúng, cha mẹ phải làm gương." },
+      { "speaker": "A", "hanzi": "教育孩子不能拔苗助长，要循序渐进。", "pinyin": "jiàoyù háizi bùnéng bámiáozhùzhǎng, yào xúnxùjiànjìn.", "meaningVi": "Dạy con không thể nóng vội, phải tiến từng bước." },
+      { "speaker": "B", "hanzi": "说得对，培养品德比成绩更重要。", "pinyin": "shuō de duì, péiyǎng pǐndé bǐ chéngjì gèng zhòngyào.", "meaningVi": "Đúng vậy, bồi dưỡng phẩm đức quan trọng hơn thành tích." }
+    ],
+    "newWords": ["hsk6-2303", "hsk6-2372", "hsk6-2084", "hsk6-1901", "hsk6-1936", "hsk6-2384"]
+  },
+  {
+    "id": "hsk6-dlg-009",
+    "title": "Phỏng vấn nhân tài",
+    "level": 6,
+    "situationVi": "Nhà tuyển dụng đánh giá ứng viên xuất sắc.",
+    "lines": [
+      { "speaker": "A", "hanzi": "你在简历上说自己才华横溢，请举个例子。", "pinyin": "nǐ zài jiǎnlì shàng shuō zìjǐ cáihuáhéngyì, qǐng jǔ ge lìzi.", "meaningVi": "Bạn ghi trong hồ sơ rằng mình tài hoa lỗi lạc, xin nêu ví dụ." },
+      { "speaker": "B", "hanzi": "我曾凭借创新的方案挽救了一个项目。", "pinyin": "wǒ céng píngjiè chuàngxīn de fāng'àn wǎnjiù le yí ge xiàngmù.", "meaningVi": "Tôi từng dựa vào phương án đổi mới cứu vãn một dự án." },
+      { "speaker": "A", "hanzi": "很好，我们正需要这样孜孜不倦的人才。", "pinyin": "hěn hǎo, wǒmen zhèng xūyào zhèyàng zīzībùjuàn de réncái.", "meaningVi": "Rất tốt, chúng tôi đang cần nhân tài cần cù như vậy." },
+      { "speaker": "B", "hanzi": "谢谢，我一定竭尽全力，不辜负期望。", "pinyin": "xièxie, wǒ yídìng jiéjìnquánlì, bù gūfù qīwàng.", "meaningVi": "Cảm ơn, tôi nhất định dốc hết sức, không phụ kỳ vọng." }
+    ],
+    "newWords": ["hsk6-2132", "hsk6-1468", "hsk6-2110", "hsk6-2306"]
+  },
+  {
+    "id": "hsk6-dlg-010",
+    "title": "Du lịch và phong tục",
+    "level": 6,
+    "situationVi": "Hai du khách trò chuyện về văn hóa địa phương.",
+    "lines": [
+      { "speaker": "A", "hanzi": "这里山清水秀，风景真是名不虚传。", "pinyin": "zhèlǐ shānqīngshuǐxiù, fēngjǐng zhēnshì míngbùxūchuán.", "meaningVi": "Nơi đây non xanh nước biếc, phong cảnh quả là danh bất hư truyền." },
+      { "speaker": "B", "hanzi": "各地的习俗各式各样，很值得体验。", "pinyin": "gèdì de xísú gèshìgèyàng, hěn zhídé tǐyàn.", "meaningVi": "Phong tục mỗi nơi đủ kiểu đủ loại, rất đáng để trải nghiệm." },
+      { "speaker": "A", "hanzi": "节日时家家户户张灯结彩，热闹极了。", "pinyin": "jiérì shí jiājiāhùhù zhāngdēngjiécǎi, rènao jí le.", "meaningVi": "Ngày lễ nhà nhà treo đèn kết hoa, náo nhiệt vô cùng." },
+      { "speaker": "B", "hanzi": "这种传统文化真应该好好传承下去。", "pinyin": "zhè zhǒng chuántǒng wénhuà zhēn yīnggāi hǎohǎo chuánchéng xiàqù.", "meaningVi": "Nền văn hóa truyền thống này thật nên gìn giữ kế thừa." }
+    ],
+    "newWords": ["hsk6-1895", "hsk6-2468", "hsk6-1487", "hsk6-2477", "hsk6-2498", "hsk6-2194"]
+  }
+]
