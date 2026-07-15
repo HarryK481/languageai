@@ -13,3 +13,6 @@ next-env.d.ts
 # Bỏ qua toàn bộ nội dung audio, NHƯNG vẫn giữ README nhắc việc.
 /public/audio/*
 !/public/audio/README.md
+
+# Tài liệu chiến lược nội bộ — không đẩy lên repo
+docs/07-giai-phap-phat-trien.md
