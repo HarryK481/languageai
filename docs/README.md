@@ -13,6 +13,7 @@ Bộ tài liệu này mô tả thiết kế dự án **trước khi code**. Stac
 | 04 | [Tính năng & màn hình](04-tinh-nang.md) | Định hướng khác biệt, tính năng P0/P1/P2, mô tả màn hình |
 | 05 | [Lộ trình](05-lo-trinh.md) | Kế hoạch theo giai đoạn |
 | 06 | [Phân tích đối thủ](06-phan-tich-doi-thu.md) | Khảo sát app/web dạy tiếng Trung & khoảng trống cơ hội |
+| 08 | [Hướng dẫn Audio](08-huong-dan-audio.md) | Cách nghe/sinh phát âm, fallback trình duyệt, xử lý sự cố |
 
 ## Trạng thái
 
